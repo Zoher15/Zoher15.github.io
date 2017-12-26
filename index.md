@@ -1,5 +1,5 @@
 # Zoher Kachwala
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Zoher Kachwala.JPG)
 Format: ![Alt Text](url)
 
 You can use the [editor on GitHub](https://github.com/Zoher15/Zoher15.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
