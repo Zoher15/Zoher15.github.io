@@ -1,10 +1,6 @@
 # Zoher Kachwala
-![GitHub Logo](/images/Zoher Kachwala.JPG)
-Format: ![Alt Text](url)
-
-You can use the [editor on GitHub](https://github.com/Zoher15/Zoher15.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img align="left" width="500" height="500" src="https://raw.githubusercontent.com/Zoher15/Zoher15.github.io/master/images/Zkachwal.jpeg">
+[LinkedIn](https://www.linkedin.com/in/zoher-kachwala/)
 
 ### About Me
 
