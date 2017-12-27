@@ -1,7 +1,8 @@
----
 theme: jekyll-theme-minimal
-title: Zoher Kachwala
-description: YOLO Zoka
-title-img: Zoher15.github.io/images/Zkachwal.jpeg
+---
+layout: archive
+permalink: /tags/
+title: "Posts by Tag"
+author_profile: true
 ---
 
