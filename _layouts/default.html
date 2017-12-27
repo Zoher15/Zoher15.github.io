@@ -1,4 +1,13 @@
 <!doctype html>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
@@ -42,12 +51,8 @@
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-          <ul>
-            <li><a href="{{ site.github.url }}/Resume Zoher Kachwala Indiana University Bloomington.pdf">View<strong>Résumé</strong></a></li>
-            <li><a href="mailto:zoher.kachwala@gmail.com?subject=This to test if you are a real person ;) ;)&body=name:%0D%0Aemail:">Write an <strong>Email</strong></a></li>
-            <li><a href="https://www.linkedin.com/in/zoher-kachwala/">View on <strong>LinkedIn</strong></a></li>
-          </ul>
         {% endif %}
+        <div class="fb-follow" data-href="https://www.facebook.com/zoher.kachwala" data-layout="standard" data-size="small" data-show-faces="true"></div>
         <p><small></small></p>
       </footer>
     </div>
