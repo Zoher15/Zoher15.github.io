@@ -47,8 +47,8 @@
   ],
   "education": [
     {
-      "institution": "Indiana University",
-      "location": "Bloomington, Indiana, United States, ",
+      "institution": "Indiana University Bloomington",
+      "location": "Indiana, United States",
       "url": "https://www.iu.edu/",
       "area": "Computer Science",
       "studyType": "PhD",
@@ -58,19 +58,19 @@
       "courses": ["Introduction to Statistics", "Algorithms Design and Analysis", "Introduction to Complex Systems", "Network Science", "Gender and Computerization", "Advance Seminar in Complex Systems", "Knowledge Based Artificial Intelligence", "Deep Learning Systems"]
     },
     {
-      "institution": "Indiana University",
-      "location": "Bloomington, Indiana, United States, ",
+      "institution": "Indiana University Bloomington",
+      "location": "Indiana, United States",
       "url": "https://www.iu.edu/",
       "area": "Data Science",
       "studyType": "MS",
-      "startDate": "2019-08-01",
-      "endDate": "2025-05-01",
+      "startDate": "2022-08-01",
+      "endDate": "2024-05-01",
       "score": "10",
       "courses": ["Data Mining", "Advanced Database Concepts", "Exploratory Data Analysis", "Management Access and Use of Big Data"]
     },
     {
-      "institution": "Indiana University",
-      "location": "Bloomington, Indiana, United States, ",
+      "institution": "Indiana University Bloomington",
+      "location": "Indiana, United States",
       "url": "https://www.iu.edu/",
       "area": "Computer Science",
       "studyType": "MS",
