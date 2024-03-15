@@ -34,6 +34,26 @@
       "highlights": ["Received an offer from PwC to join as a Full-Time Technology Consultant", "Received an offer from Deloitte to join as a Full-Time Technology Analyst"]
     }
   ],
+  "Conferences": [
+    {
+      "organization": "Harvard World Model United Nations Conference Montreal 2017",
+      "position": "Delegate",
+      "url": "https://www.worldmun.org/",
+      "startDate": "2017-03-13",
+      "endDate": "2017-03-17",
+      "summary": "Delegate for the Kingdom of Cambodia.",
+      "highlights": ["An address by Peter Schiefke the Parliamentary Secretary for Youth to the Prime minister of Canada"]
+    },
+    {
+      "organization": "Harvard World Model United Nations Conference Rome 2016",
+      "position": "Participant",
+      "url": "https://www.worldmun.org/",
+      "startDate": "2016-03-14",
+      "endDate": "2016-03-18",
+      "summary": "Delegate for the Kingdom of Lesotho.",
+      "highlights": ["An address by Pope Francis to all participants of the conference"]
+    }
+  ],
   "education": [
     {
       "institution": "Indiana University Bloomington",
@@ -124,7 +144,7 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native speaker",
       "icon": ""
     },
     {
