@@ -4,6 +4,7 @@
     "label": "PhD Candidate in Computer Science",
     "image": "",
     "email": "<firstname> dot <lastname> at gmail dot com",
+    "phone": "",
     "url": "https://zoher15.github.io/",
     "summary": "I am interested in the potential of local knowledge graphs like AMRs to complement the strengths of LLMs. I currently work on efficient graph-based methods for NLP that bridge the gap between language understanding and structured knowledge.",
     "location": {
