@@ -34,7 +34,7 @@
       "highlights": ["Worked as part of the Project Management Office to implement an Accelerated Agile Software Development Model", "Coordinated with Business Analysts, Quality Analyts and Developers to deliver a Staffing and Effort Estimate for Release 2 of the project.", "In recognition of my work, received an offer from PwC to join as a Full-Time Technology Consultant", "In recognition of my experience, received an offer from Deloitte to join as a Full-Time Technology Analyst"]
     }
   ],
-  "Conferences": [
+  "Volunteer": [
     {
       "organization": "Harvard World Model United Nations Conference Montreal 2017",
       "position": "Delegate",
@@ -58,7 +58,7 @@
     {
       "institution": "Indiana University Bloomington",
       "location": "United States",
-      "url": "https://www.iu.edu/",
+      "url": "https://cs.indiana.edu/programs/phd-computer-science.html",
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2021-08-01",
@@ -69,7 +69,7 @@
     {
       "institution": "Indiana University Bloomington",
       "location": "United States",
-      "url": "https://www.iu.edu/",
+      "url": "https://online.iu.edu/degrees/data-science-ms-graduate.html",
       "area": "Data Science",
       "studyType": "MS",
       "startDate": "2019-08-01",
@@ -80,7 +80,7 @@
     {
       "institution": "Indiana University Bloomington",
       "location": "United States",
-      "url": "https://www.iu.edu/",
+      "url": "https://cs.indiana.edu/programs/ms-computer-science.html",
       "area": "Computer Science",
       "studyType": "MS",
       "startDate": "2017-08-01",
