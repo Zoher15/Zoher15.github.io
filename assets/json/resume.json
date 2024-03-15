@@ -25,8 +25,26 @@
   },
   "work": [
     {
+      "name": "Kinsey Institute for Research in Sex, Gender, and Reproduction",
+      "position": "Part-Time Data Analyst",
+      "url": "https://kinseyinstitute.org/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-01",
+      "summary": "Worked with the Socioneural Physiology Lab",
+      "highlights": ["Optimized and streamlined vocal prosody analysis from audio recordings to use as an index of neurophysiology", "Developed a data analysis pipeline for execution on super-computing clusters"]
+    },
+    {
+      "name": "University Information Technology Services",
+      "position": "Part-Time Software Tester",
+      "url": "https://uits.iu.edu/",
+      "startDate": "2018-01-01",
+      "endDate": "2018-05-01",
+      "summary": "Worked with Indiana University Information Technology Agile Team for Software Development",
+      "highlights": ["Worked on Indiana University's student-facing web applications like IU Meal Plan and IU FlexPay", "Conducted functional, accessibility, penetration and regression testing on web interfaces"]
+    },
+    {
       "name": "PricewaterhouseCoopers",
-      "position": "Technology Consultant",
+      "position": "Technology Consultant Intern",
       "url": "https://www.pwc.com/gx/en/services/consulting/technology.html",
       "startDate": "2018-05-01",
       "endDate": "2018-08-01",
