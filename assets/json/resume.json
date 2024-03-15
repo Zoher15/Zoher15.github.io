@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Zoher Kachwala",
-    "label": "Scientist",
+    "label": "PhD Candidate in Computer Science",
     "image": "",
-    "email": "zoher.kachwala@gmail.com",
-    "phone": "(812) 369 8263",
+    "email": "<firstname> dot <lastname> at gmail dot com",
     "url": "https://zoher15.github.io/",
     "summary": "I am interested in the potential of local knowledge graphs like AMRs to complement the strengths of LLMs. I currently work on efficient graph-based methods for NLP that bridge the gap between language understanding and structured knowledge.",
     "location": {
@@ -16,9 +15,19 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Threads",
+        "username": "zoher_15",
+        "url": "https://www.threads.net/@zoher_15"
+      }
+      {
+        "network": "LinkedIn",
+        "username": "zoher-kachwala",
+        "url": "https://www.linkedin.com/in/zoher-kachwala/"
+      }
+      {
+        "network": "Google Scholar",
+        "username": "yjxLPHoAAAAJ&hl",
+        "url": "https://scholar.google.com/citations?user=yjxLPHoAAAAJ&hl"
       }
     ]
   },
@@ -46,15 +55,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Indiana University",
+      "location": "Bloomington, Indiana, United States, ",
+      "url": "https://www.iu.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2019-08-01",
+      "endDate": "2025-05-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Introduction to Statistics", "Algorithms Design and Analysis", "Introduction to Complex Systems", "Network Science", "Gender and Computerization", "Advance Seminar in Complex Systems", "Knowledge Based Artificial Intelligence", "Deep Learning Systems"]
+    }
+    {
+      "institution": "Indiana University",
+      "location": "Bloomington, Indiana, United States, ",
+      "url": "https://www.iu.edu/",
+      "area": "Data Science",
+      "studyType": "MS",
+      "startDate": "2019-08-01",
+      "endDate": "2025-05-01",
+      "score": "10",
+      "courses": ["Data Mining", "Advanced Database Concepts", "Exploratory Data Analysis", "Management Access and Use of Big Data"]
+    }
+    {
+      "institution": "Indiana University",
+      "location": "Bloomington, Indiana, United States, ",
+      "url": "https://www.iu.edu/",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "startDate": "2017-08-01",
+      "endDate": "2019-05-01",
+      "score": "10",
+      "courses": ["Elements of Artificial Intelligence", "Machine Learning", "Applied Algorithms", "Computer Networks"]
     }
   ],
   "awards": [
