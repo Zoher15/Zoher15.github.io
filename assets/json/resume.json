@@ -65,7 +65,7 @@
       "endDate": "2025-05-01",
       "score": "10",
       "courses": ["Introduction to Statistics", "Algorithms Design and Analysis", "Introduction to Complex Systems", "Network Science", "Gender and Computerization", "Advance Seminar in Complex Systems", "Knowledge Based Artificial Intelligence", "Deep Learning Systems"]
-    }
+    },
     {
       "institution": "Indiana University",
       "location": "Bloomington, Indiana, United States, ",
@@ -76,7 +76,7 @@
       "endDate": "2025-05-01",
       "score": "10",
       "courses": ["Data Mining", "Advanced Database Concepts", "Exploratory Data Analysis", "Management Access and Use of Big Data"]
-    }
+    },
     {
       "institution": "Indiana University",
       "location": "Bloomington, Indiana, United States, ",
