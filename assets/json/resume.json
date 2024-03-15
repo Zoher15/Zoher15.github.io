@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Zoher Kachwala",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "zoher.kachwala@gmail.com",
+    "phone": "(812) 369 8263",
+    "url": "https://zoher15.github.io/",
+    "summary": "I am interested in the potential of local knowledge graphs like AMRs to complement the strengths of LLMs. I currently work on efficient graph-based methods for NLP that bridge the gap between language understanding and structured knowledge.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
