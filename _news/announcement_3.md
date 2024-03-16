@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper `Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity` was accepted to [NAACL24](https://2024.naacl.org/)
+My paper `Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity` was accepted to [NAACL24](https://2024.naacl.org/)!
