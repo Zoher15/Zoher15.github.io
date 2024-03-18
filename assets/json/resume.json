@@ -152,14 +152,16 @@
       "highlights": ["Worked as part of the Project Management Office to implement an Accelerated Agile Software Development Model", "Coordinated with Business Analysts, Quality Analyts and Developers to deliver a Staffing and Effort Estimate for Release 2 of the project.", "In recognition of my work, received an offer from PwC to join as a Full-Time Technology Consultant", "In recognition of my experience, received an offer from Deloitte to join as a Full-Time Technology Analyst"]
     }
   ],
-  "volunteer": [
+  "service": [
     {
       "organization": "PeerJ Computer Science",
       "position": "Reviewer",
       "url": "https://peerj.com/computer-science/",
       "startDate": "2024-03-01",
       "endDate": "2024-03-20"
-    },
+    }
+  ],
+  "talks": [
     {
       "organization": "Duke Reporter's Lab",
       "position": "Talk",
