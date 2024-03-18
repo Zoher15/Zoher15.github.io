@@ -130,6 +130,16 @@
       "startDate": "2015-05-01",
       "endDate": "2015-08-01",
       "score": "10"
+    },
+    {
+      "institution": "NMIMS University",
+      "location": "India",
+      "url": "https://engineering.nmims.edu/academics/programmes/b-tech/computer-engineering/",
+      "area": "Computer Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2013-08-01",
+      "endDate": "2017-05-01",
+      "score": "10"
     }
   ],
   "awards": [
