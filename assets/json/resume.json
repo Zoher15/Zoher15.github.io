@@ -125,6 +125,32 @@
   ],
   "work": [
     {
+      "organization": "Elements of Artificial Intelligence by David Crandall (Indiana University)",
+      "url": "https://homes.luddy.indiana.edu/djcran/",
+      "position": "Assistant Instructor",
+      "startDate": "2019-08-01",
+      "endDate": "2021-12-30",
+      "summary": "A class introducing the basics of Artificial Intelligence, from search algorithms to neural networks.",
+      "highlights": ["The most popular graduate course with over 300 students.","Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students."]
+    },
+    {
+      "organization": "Introduction to Network Science by Filippo Menczer (Indiana University)",
+      "url": "https://cnets.indiana.edu/fil",
+      "position": "Assistant Instructor",
+      "startDate": "2022-08-01",
+      "endDate": "2024-12-30",
+      "summary": "A class introducing the basics of Network Science, from understanding nodes and edges to analyzing Twitter networks.",
+      "highlights": ["Developed and conducted coding-based  network science tutorials using programming to reinforce theoretical concepts in class."]
+    },
+    {
+      "organization": "Applied Machine Learning by Xuhong Zhang (Indiana University)",
+      "url": "https://homes.luddy.indiana.edu/zhangxuh/",
+      "position": "Assistant Instructor",
+      "startDate": "2020-08-01",
+      "endDate": "2020-12-30",
+      "summary": "A class focused on applications of Machine Learning, from unsupervised to supervised algorithms."
+    },
+    {
       "name": "Kinsey Institute for Research in Sex, Gender, and Reproduction",
       "position": "Part-Time Data Analyst",
       "url": "https://kinseyinstitute.org/",
@@ -152,43 +178,13 @@
       "highlights": ["Worked as part of the Project Management Office to implement an Accelerated Agile Software Development Model", "Coordinated with Business Analysts, Quality Analyts and Developers to deliver a Staffing and Effort Estimate for Release 2 of the project.", "In recognition of my work, received an offer from PwC to join as a Full-Time Technology Consultant", "In recognition of my experience, received an offer from Deloitte to join as a Full-Time Technology Analyst"]
     }
   ],
-  "service": [
+  "volunteer": [
     {
       "organization": "PeerJ Computer Science",
       "position": "Reviewer",
       "url": "https://peerj.com/computer-science/",
       "startDate": "2024-03-01"
-    }
-  ],
-  "teaching": [
-    {
-      "organization": "Elements of Artificial Intelligence by David Crandall (Indiana University)",
-      "url": "https://homes.luddy.indiana.edu/djcran/",
-      "position": "Assistant Instructor",
-      "startDate": "2019-08-01",
-      "endDate": "2021-12-30",
-      "summary": "A class introducing the basics of Artificial Intelligence, from search algorithms to neural networks.",
-      "highlights": ["The most popular graduate course with over 300 students.","Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students."]
     },
-    {
-      "organization": "Introduction to Network Science by Filippo Menczer (Indiana University)",
-      "url": "https://cnets.indiana.edu/fil",
-      "position": "Assistant Instructor",
-      "startDate": "2022-08-01",
-      "endDate": "2024-12-30",
-      "summary": "A class introducing the basics of Network Science, from understanding nodes and edges to analyzing Twitter networks.",
-      "highlights": ["Developed and conducted coding-based  network science tutorials using programming to reinforce theoretical concepts in class."]
-    },
-    {
-      "organization": "Applied Machine Learning by Xuhong Zhang (Indiana University)",
-      "url": "https://homes.luddy.indiana.edu/zhangxuh/",
-      "position": "Assistant Instructor",
-      "startDate": "2020-08-01",
-      "endDate": "2020-12-30",
-      "summary": "A class focused on applications of Machine Learning, from unsupervised to supervised algorithms."
-    }
-  ],
-  "talks": [
     {
       "organization": "Duke Reporter's Lab",
       "position": "Talk",
