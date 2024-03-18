@@ -125,7 +125,7 @@
   ],
   "work": [
     {
-      "organization": "Elements of Artificial Intelligence by David Crandall (Indiana University)",
+      "name": "Elements of Artificial Intelligence by David Crandall (Indiana University)",
       "url": "https://homes.luddy.indiana.edu/djcran/",
       "position": "Assistant Instructor",
       "startDate": "2019-08-01",
@@ -134,7 +134,7 @@
       "highlights": ["The most popular graduate course with over 300 students.","Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students."]
     },
     {
-      "organization": "Introduction to Network Science by Filippo Menczer (Indiana University)",
+      "name": "Introduction to Network Science by Filippo Menczer (Indiana University)",
       "url": "https://cnets.indiana.edu/fil",
       "position": "Assistant Instructor",
       "startDate": "2022-08-01",
@@ -143,7 +143,7 @@
       "highlights": ["Developed and conducted coding-based  network science tutorials using programming to reinforce theoretical concepts in class."]
     },
     {
-      "organization": "Applied Machine Learning by Xuhong Zhang (Indiana University)",
+      "name": "Applied Machine Learning by Xuhong Zhang (Indiana University)",
       "url": "https://homes.luddy.indiana.edu/zhangxuh/",
       "position": "Assistant Instructor",
       "startDate": "2020-08-01",
