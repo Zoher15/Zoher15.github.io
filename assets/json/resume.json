@@ -101,28 +101,6 @@
       "abstract": "A brief insight into language modelling -- a statistical way of teaching language to machines, and its inexplicable capablities. It also highlights a few shortcomings of such models and discusses some approacheds to address them."
     }
   ],
-  "awards": [
-    {
-      "title": "Complex Networks and Systems National Science Foundation Research Summer Fellowship",
-      "date": "2021-12-05",
-      "awarder": "NSF-NRT Interdisciplinary Training in Complex Networks and Systems (CNS-NRT)",
-      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735095",
-      "summary": "Trainees learn to connect the general-purpose, computational expertise of CNS to the deep, domain-specific research methodologies of the natural, behavioral, and social sciences thus bridging the gap between distinct training cultures."
-    },
-    {
-      "title": "Knight Fellowship",
-      "date": "2020-01-01",
-      "awarder": "Knight Foundation",
-      "url": "https://knightfoundation.org/press/releases/knight-fifty-million-develop-new-research-technology-impact-democracy/",
-      "summary": "Cross-disciplinary research centers and projects that fill knowledge gaps on how society is informed in the digital age."
-    },
-    {
-      "title": "Newmark Fellowship",
-      "date": "2018-10-01",
-      "awarder": "Craig Newmark",
-      "url": "https://craignewmarkphilanthropies.org/"
-    }
-  ],
   "work": [
     {
       "name": "Elements of Artificial Intelligence by David Crandall (Indiana University)",
@@ -174,8 +152,30 @@
       "url": "https://www.pwc.com/gx/en/services/consulting/technology.html",
       "startDate": "2018-05-01",
       "endDate": "2018-08-01",
-      "summary": "Deployed within PwC Financial Services & Insurance to implement an Agent Portal for SECURA Insurance, Wisconsin.",
+      "summary": "Deployed within PwC Financial Services & Insurance to implement an Agent Portal for SECURA Insurance, Wisconsin",
       "highlights": ["Worked as part of the Project Management Office to implement an Accelerated Agile Software Development Model", "Coordinated with Business Analysts, Quality Analyts and Developers to deliver a Staffing and Effort Estimate for Release 2 of the project.", "In recognition of my work, received an offer from PwC to join as a Full-Time Technology Consultant", "In recognition of my experience, received an offer from Deloitte to join as a Full-Time Technology Analyst"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Complex Networks and Systems National Science Foundation Research Summer Fellowship",
+      "date": "2021-12-05",
+      "awarder": "NSF-NRT Interdisciplinary Training in Complex Networks and Systems (CNS-NRT)",
+      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735095",
+      "summary": "Trainees learn to connect the general-purpose, computational expertise of CNS to the deep, domain-specific research methodologies of the natural, behavioral, and social sciences thus bridging the gap between distinct training cultures"
+    },
+    {
+      "title": "Knight Fellowship",
+      "date": "2020-01-01",
+      "awarder": "Knight Foundation",
+      "url": "https://knightfoundation.org/press/releases/knight-fifty-million-develop-new-research-technology-impact-democracy/",
+      "summary": "Cross-disciplinary research centers and projects that fill knowledge gaps on how society is informed in the digital age"
+    },
+    {
+      "title": "Newmark Fellowship",
+      "date": "2018-10-01",
+      "awarder": "Craig Newmark",
+      "url": "https://craignewmarkphilanthropies.org/"
     }
   ],
   "volunteer": [
@@ -183,7 +183,8 @@
       "organization": "PeerJ Computer Science",
       "position": "Reviewer",
       "url": "https://peerj.com/computer-science/",
-      "startDate": "2024-03-01"
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-20"
     },
     {
       "organization": "Duke Reporter's Lab",
@@ -191,7 +192,23 @@
       "url": "https://reporterslab.org/tech-and-check/",
       "startDate": "2019-02-27",
       "endDate": "2019-02-30",
-      "summary": "A talk on fact-checking with knowledge graphs at the Tech & Check Conference 2019."
+      "summary": "A talk on fact-checking with knowledge graphs at the Tech & Check Conference 2019"
+    },
+    {
+      "organization": "Indiana University Graduate & Professional Student Government",
+      "position": "Representative of the Computer Science Department",
+      "url": "https://gpsg.indiana.edu/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-12-01",
+      "summary": "A university body advocating for an inclusive and empowered graduate student community"
+    },
+    {
+      "organization": "Luddy School of Informatics, Computing, and Engineering",
+      "position": "Ambassador",
+      "url": "https://luddy.indiana.edu/index.html",
+      "startDate": "2020-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Help coordinate visits and answer questions for prospective students"
     },
     {
       "organization": "Harvard World Model United Nations Conference Montreal 2017",
@@ -199,7 +216,7 @@
       "url": "https://www.worldmun.org/",
       "startDate": "2017-03-13",
       "endDate": "2017-03-17",
-      "summary": "Delegate for the Kingdom of Cambodia.",
+      "summary": "Delegate for the Kingdom of Cambodia",
       "highlights": ["An address by Peter Schiefke the Parliamentary Secretary for Youth to the Prime minister of Canada"]
     },
     {
@@ -208,7 +225,7 @@
       "url": "https://www.worldmun.org/",
       "startDate": "2016-03-14",
       "endDate": "2016-03-18",
-      "summary": "Delegate for the Kingdom of Lesotho.",
+      "summary": "Delegate for the Kingdom of Lesotho",
       "highlights": ["An address by Pope Francis to all participants of the conference"]
     }
   ],
