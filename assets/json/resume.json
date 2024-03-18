@@ -54,6 +54,13 @@
   ],
   "volunteer": [
     {
+      "organization": "PeerJ Computer Science",
+      "position": "Reviewer",
+      "url": "https://peerj.com/computer-science/",
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-20"
+    },
+    {
       "organization": "Harvard World Model United Nations Conference Montreal 2017",
       "position": "Delegate",
       "url": "https://www.worldmun.org/",
@@ -124,14 +131,21 @@
       "awarder": "NSF-NRT Interdisciplinary Training in Complex Networks and Systems (CNS-NRT)",
       "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735095",
       "summary": "Trainees learn to connect the general-purpose, computational expertise of CNS to the deep, domain-specific research methodologies of the natural, behavioral, and social sciences thus bridging the gap between distinct training cultures."
+    },
+    {
+      "title": "Knight Fellowship",
+      "date": "2020-01-01",
+      "awarder": "Knight Foundation",
+      "url": "https://knightfoundation.org/press/releases/knight-fifty-million-develop-new-research-technology-impact-democracy/",
+      "summary": "Cross-disciplinary research centers and projects will fill knowledge gaps on how society is informed in the digital age."
     }
   ],
   "publications": [
     {
       "name": "Rematch: Robust and Efficient Matching of Local Knowledge Graphs to Improve Structural and Semantic Similarity",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
+      "publisher": "NAACL24",
+      "releaseDate": "2024-03-14",
+      "url": "https://openreview.net/forum?id=dBnsZ72qUQ",
       "abstract": "Knowledge graphs play a pivotal role in various applications, such as question-answering and fact-checking. Abstract Meaning Representation (AMR) represents text as local knowledge graphs. Evaluating the quality of these graphs involves matching them structurally to each other and semantically to the source text. Existing AMR metrics are inefficient and struggle to capture semantic similarity. We also lack a systematic evaluation benchmark for assessing structural similarity between AMR graphs. To overcome these limitations, we introduce a novel AMR similarity metric, rematch, alongside a new evaluation for structural similarity called RARE. Among state-of-the-art metrics, rematch ranks second in structural similarity; and first in semantic similarity by 1–5 percentage points on the STS-B and SICK-R benchmarks. Rematch is also five times faster than the next most efficient metric."
     },
     {
@@ -149,21 +163,6 @@
       "abstract": "A brief insight into language modelling -- a statistical way of teaching language to machines, and its inexplicable capablities. It also highlights a few shortcomings of such models and discusses some approacheds to address them."
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Gujarati",
@@ -179,42 +178,6 @@
       "language": "Hindi",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
