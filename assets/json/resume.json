@@ -157,6 +157,12 @@
   ],
   "awards": [
     {
+      "title": "Research Computing Award",
+      "date": "2024-03-01",
+      "awarder": "NSF Jetstream2",
+      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2005506"
+    },
+    {
       "title": "Complex Networks and Systems National Science Foundation Research Summer Fellowship",
       "date": "2021-12-05",
       "awarder": "NSF-NRT Interdisciplinary Training in Complex Networks and Systems (CNS-NRT)",
@@ -175,12 +181,6 @@
       "date": "2018-10-01",
       "awarder": "Craig Newmark",
       "url": "https://craignewmarkphilanthropies.org/"
-    },
-    {
-      "title": "Research Computing Award",
-      "date": "2024-03-01",
-      "awarder": "NSF Jetstream2",
-      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2005506"
     }
   ],
   "volunteer": [
