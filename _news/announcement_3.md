@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My research was awarded computing resources worth $160,550 by [NSF's Jetstream2 Project](https://doi.org/10.1145/3437359.3465565)!
+My research was awarded computing resources worth $160,550 by [NSF's Jetstream2 Project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2005506)!
