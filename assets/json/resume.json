@@ -107,8 +107,8 @@
       "position": "Assistant Instructor",
       "startDate": "2019-08-01",
       "endDate": "2021-12-30",
-      "summary": "A class introducing the basics of Artificial Intelligence, from search algorithms to neural networks.",
-      "highlights": ["The most popular graduate course with over 300 students.","Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students."]
+      "summary": "A class introducing the basics of Artificial Intelligence, from search algorithms to neural networks",
+      "highlights": ["The most popular graduate course with over 300 students","Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students"]
     },
     {
       "name": "Introduction to Network Science by Filippo Menczer (Indiana University)",
@@ -116,8 +116,8 @@
       "position": "Assistant Instructor",
       "startDate": "2022-08-01",
       "endDate": "2024-12-30",
-      "summary": "A class introducing the basics of Network Science, from understanding nodes and edges to analyzing Twitter networks.",
-      "highlights": ["Developed and conducted coding-based  network science tutorials using programming to reinforce theoretical concepts in class."]
+      "summary": "A class introducing the basics of Network Science, from understanding nodes and edges to analyzing Twitter networks",
+      "highlights": ["Developed and conducted coding-based network science tutorials to reinforce theoretical concepts in class"]
     },
     {
       "name": "Applied Machine Learning by Xuhong Zhang (Indiana University)",
@@ -125,7 +125,7 @@
       "position": "Assistant Instructor",
       "startDate": "2020-08-01",
       "endDate": "2020-12-30",
-      "summary": "A class focused on applications of Machine Learning, from unsupervised to supervised algorithms."
+      "summary": "A class focused on applications of Machine Learning, from unsupervised to supervised algorithms"
     },
     {
       "name": "Kinsey Institute for Research in Sex, Gender, and Reproduction",
@@ -175,6 +175,12 @@
       "date": "2018-10-01",
       "awarder": "Craig Newmark",
       "url": "https://craignewmarkphilanthropies.org/"
+    },
+    {
+      "title": "Research Computing Award",
+      "date": "2024-03-01",
+      "awarder": "NSF Jetstream2",
+      "url": "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2005506"
     }
   ],
   "volunteer": [
