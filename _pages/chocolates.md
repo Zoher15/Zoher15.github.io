@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /chocolate_workshop/
-title: chocolate workshop
+title: "🍫 CNeTS Chocolate Workshop"
 description:
 nav: true
 nav_order: 4
 ---
-# 🍫 CNeTS Chocolate Workshop Report (text by ChatGPT)
+(text by ChatGPT)
 
 Welcome to our delicious dive into the world of chocolate ratings! We've collected opinions from 11 participants on 15 different chocolates. Below, you'll find a series of colorful box plots, each one exploring a different tasty trend. Let's break it down:
 
