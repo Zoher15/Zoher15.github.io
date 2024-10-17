@@ -16,7 +16,7 @@ Our first box plot gives a bird’s-eye view of **all 15 chocolates** rated by o
 
 **Box Plot Explanation**: This box plot lines up chocolates from least to most liked, with the duds on the left and fan favorites on the right. The wider the box, the more divided the opinions—some folks thought it was a delight, while others weren't impressed. As you browse the plot, you'll see a range of tastes: some chocolates were adored, while others... well, they weren’t everyone's cup of cocoa. Expect a few surprises—some hidden gems and shockingly low scores along the way! 🍫🎉
   
-![image](https://github.com/user-attachments/assets/7b2a2181-c84c-47c2-9be5-ef1420a34ad7){: .img-responsive}
+![image](https://github.com/user-attachments/assets/7b2a2181-c84c-47c2-9be5-ef1420a34ad7){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
 **Takeaway:** The ratings for our 15 chocolates were as mixed as a bowl of chocolate chips! Some chocolates hit the sweet spot (literally), while others crumbled under the pressure. Our tasters didn’t hold back with their critiques—*looking at you, super dark chocolates!* But a few stood out from the crowd, emerging as clear fan favorites:  
 
@@ -39,7 +39,7 @@ Now let’s zoom in on the **milk chocolates**—those with 30% cocoa content, t
   
 **Box Plot Explanation**: This box plot focuses exclusively on milk chocolates, once again sorted by their median rating—least liked on the left, most liked on the right. Do these creamy classics live up to their smooth and sweet reputation, or did some tasters find them a little too meh? The width of each box shows how much people agreed (or disagreed)—the wider it is, the more mixed the opinions. Will these chocolates melt hearts or leave some wanting a richer bite? Let’s dive in and find out! 🍫✨
 
-![image](https://github.com/user-attachments/assets/e00d3185-719f-4018-ad70-28dae588f50d){: .img-responsive}
+![image](https://github.com/user-attachments/assets/e00d3185-719f-4018-ad70-28dae588f50d){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
 **Takeaway:** Milk chocolates are usually the crowd-pleasers, and it looks like they mostly lived up to the hype. While favorites like Chocolove and Tony's Chocolonely scored consistently high, a few other milk chocolates didn’t hit the mark for everyone. It seems even among milk chocolate fans, there are some tough critics out there! 🧐 But one chocolate stole the show:
 
@@ -60,7 +60,7 @@ For our third plot, we move to the world of **dark chocolates** with cocoa conte
   
 **Box Plot Explanation**: This box plot focuses exclusively on dark chocolates, sorted by their median rating—least liked on the left and most liked on the right. The question is: did these semi-dark delights strike the perfect balance, or did they leave some tasters craving a touch more sweetness... or perhaps even more bitterness? Either way, expect a few surprises—because when it comes to dark chocolate, not every bite is everyone’s cup of cocoa! 🍫😋
 
-![image](https://github.com/user-attachments/assets/d7b23cf9-489d-494f-bdda-ec6a45a48162){: .img-responsive}
+![image](https://github.com/user-attachments/assets/d7b23cf9-489d-494f-bdda-ec6a45a48162){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
 **Takeaway:** These dark chocolates tread the fine line between sweet and bitter, sparking a wide range of opinions. Brands like Tony’s Chocolonely (40-50%) and Mr Beast seem to have won over more hearts, but some others didn’t quite charm the crowd—perhaps they weren’t “dark” enough for the hardcore dark chocolate enthusiasts? 🧐 And, once again, the crown for the best dark chocolate goes to... Tony’s Chocolonely! 🎉 Looks like they’ve mastered the art of balancing boldness and sweetness! 🍫👑
 
@@ -76,7 +76,7 @@ Now it’s time for the **extra dark chocolates**, the true heroes (or villains)
   
 **Box Plot Explanation**: This box plot features extra dark chocolates sorted by their median rating, with the least liked on the left and the most liked on the right. These bold chocolates boast strong cocoa content—will they be adored for their richness or found too intense? Expect a mix of opinions, with some chocolates winning hearts and others... well, not everyone’s cup of cocoa! Get ready for a tasty journey through the highs and lows of dark chocolate love! 🍫✨
 
-![image](https://github.com/user-attachments/assets/7a64e62f-d752-4497-8c16-ce6d0c99b30d){: .img-responsive}
+![image](https://github.com/user-attachments/assets/7a64e62f-d752-4497-8c16-ce6d0c99b30d){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
 **Takeaway:** Let’s dive into the extra dark chocolates—where do we even begin? Bold and intense, these treats are nothing if not polarizing! Chocolates like Equal Exchange (92%) sent some tasters soaring into cocoa heaven, while others couldn’t give them a thumbs-down fast enough. This is the realm of serious chocolate aficionados, where there’s no middle ground—you either love it or you don’t. And the crown for the favorite? It goes to Lindt! 🍫👑
 
@@ -86,7 +86,7 @@ Let’s pit the **milk chocolates** against the **dark** and **extra dark** vari
 
 **Box Plot Explanation**: The real question here is—do participants prefer the smooth milk, the balanced dark, or the intense extra dark? This plot provides an epic showdown.
 
-![image](https://github.com/user-attachments/assets/b14b3557-ae0b-4098-b4d9-43c32346d5b8){: .img-responsive}
+![image](https://github.com/user-attachments/assets/b14b3557-ae0b-4098-b4d9-43c32346d5b8){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
 **Takeaway:** It's an all-out battle between milk, dark, and extra dark chocolates! And it looks like dark chocolates edged out milk chocolates, proving that sweetness is not enough to win over many hearts. As for the extra dark chocolates, let's just say they’re more of an acquired taste. 😅
 
@@ -98,7 +98,7 @@ Finally, this box plot displays ratings from our chocolate lovers, sorted by med
   
 **Box Plot Explanation**: Each participant brings their unique tastes to the table, and this plot reveals who’s a lover of sweet treats and who might be a little tougher to please.
 
-![image](https://github.com/user-attachments/assets/0bee1751-3116-42e5-908b-1f80e06c26dc){: .img-responsive}
+![image](https://github.com/user-attachments/assets/0bee1751-3116-42e5-908b-1f80e06c26dc){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
 **Takeaway:** Our participants showcase a delightful mix of chocolate preferences! Some are consistently generous, handing out high scores, while others aren't shy about saying, "no thanks" to certain treats. It’s clear that everyone has their own unique definition of what makes a chocolate "delicious" or "disastrous." Kaitlin loved the most chocolates, while Ege brought the most diverse opinions to the table! 🍫✨
 
