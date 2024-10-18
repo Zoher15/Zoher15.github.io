@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cnets.indiana.edu/groups/nan'>NaN</a>&nbsp;&nbsp;<a href='https://osome.iu.edu/'>OSoMe</a>&nbsp;&nbsp;<a href='https://luddy.indiana.edu/index.html'>Luddy</a>&nbsp;&nbsp;<a href='https://www.iu.edu/'>IU</a>
+subtitle: <a href='https://cnets.indiana.edu/groups/nan'>NaN</a>&nbsp;&nbsp;<a href='https://osome.iu.edu/'>OSoMe</a>&nbsp;&nbsp;<a href='https://cnets.indiana.edu/'>CNetS</a>&nbsp;&nbsp;<a href='https://luddy.indiana.edu/index.html'>Luddy</a>&nbsp;&nbsp;<a href='https://www.iu.edu/'>IU</a>
 
 profile:
   align: right

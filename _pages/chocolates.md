@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /chocolate_workshop/
-title: "🍫 CNeTS Chocolate Workshop"
+title: "🍫 CNetS Chocolate Workshop"
 description:
 nav: true
 nav_order: 4
