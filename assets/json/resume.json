@@ -3,7 +3,7 @@
     "name": "Zoher Kachwala",
     "label": "PhD Candidate in Computer Science",
     "url": "https://zoher15.github.io/",
-    "summary": "I am interested in the potential of local knowledge graphs like AMRs to complement the strengths of LLMs. I currently work on efficient graph-based methods for NLP that bridge the gap between language understanding and structured knowledge.",
+    "summary": "My research focuses on enhancing LLM reasoning during inference, particularly at the token decoding stage. I aim to identify patterns that estimate a model’s confidence in its responses and develop methods to improve this confidence through guided decoding. I approach this in two key ways. First, I explore diverse chains of thought and implement advanced voting/aggregation mechanisms that consider not only top-ranked answer tokens but also lower-ranked alternatives. Second, I enhance the model’s reasoning by incorporating soft signals, such as answer labels, to guide its chain of thought toward more accurate responses.",
     "profiles": [
       {
         "network": "Threads",
