@@ -3,7 +3,7 @@
     "name": "Zoher Kachwala",
     "label": "PhD Candidate in Computer Science",
     "url": "https://zoher15.github.io/",
-    "summary": "My research focuses on enhancing LLM reasoning during inference, particularly at the token decoding stage. I aim to identify patterns that estimate a model’s confidence in its responses and develop methods to improve this confidence through guided decoding. I approach this in two key ways. First, I explore diverse chains of thought and implement advanced voting/aggregation mechanisms that consider not only top-ranked answer tokens but also lower-ranked alternatives. Second, I enhance the model’s reasoning by incorporating soft signals, such as answer labels, to guide its chain of thought toward more accurate responses.",
+    "summary": "My research focuses on enhancing LLM reasoning during inference, particularly at the token decoding stage. I aim to identify patterns that estimate a model's confidence in its responses and develop methods to improve this confidence through guided decoding. I approach this in two key ways. First, I explore diverse chains of thought and implement advanced voting/aggregation mechanisms that consider not only top-ranked answer tokens but also lower-ranked alternatives. Second, I enhance the model's reasoning by incorporating soft signals, such as answer labels, to guide its chain of thought toward more accurate responses.",
     "profiles": [
       {
         "network": "Threads",
@@ -108,7 +108,7 @@
       "startDate": "2019-08-01",
       "endDate": "2021-12-30",
       "summary": "A class introducing the basics of Artificial Intelligence, from search algorithms to neural networks",
-      "highlights": ["The most popular graduate course with over 300 students","Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students"]
+      "highlights": ["The most popular graduate course with over 300 students", "Designed a pytest-based autograder to keep up with the grading load of hundreds of graduate students"]
     },
     {
       "name": "Introduction to Network Science by Filippo Menczer (Indiana University)",
