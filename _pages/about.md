@@ -28,6 +28,8 @@ This work contributes to the broader goals of AI alignment and safety, ensuring 
 
 <div class="github-activity" style="text-align: center; margin: 2rem 0;">
   <h3>Contribution Activity</h3>
-  <img src="https://github-contributions.vercel.app/api/v1/zoher15" alt="GitHub Contribution Chart" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="https://github-readme-stats.vercel.app/api?username=zoher15&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 1rem;">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoher15&theme=default&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
