@@ -1,12 +1,81 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Review of Attention Models
+description: In-depth analysis of transformer architectures for PhD candidacy
+img: assets/img/attention_models.jpg
 importance: 3
 category: work
+related_publications: false
 ---
+
+## Review of Attention Models: Transformer Architecture Analysis
+
+**Duration:** May 2021 – August 2021  
+**Institution:** Indiana University  
+**Purpose:** PhD Candidacy Requirement
+
+### Project Overview
+
+This comprehensive research project involved conducting an in-depth analysis of transformer architectures, particularly BERT and GPT models, and their implications for modern Natural Language Processing. The review was completed as part of the PhD candidacy requirements and provided foundational knowledge for subsequent research in LLM reasoning and alignment.
+
+### Key Focus Areas
+
+- **Transformer Architecture Deep Dive**: Detailed analysis of the attention mechanism and its variants
+- **BERT Analysis**: Comprehensive study of bidirectional encoder representations
+- **GPT Model Family**: Examination of generative pre-trained transformers and their evolution
+- **Modern NLP Implications**: Assessment of how these architectures transformed the field
+- **Future Research Directions**: Identification of open challenges and opportunities
+
+### Research Methodology
+
+The review employed systematic analysis across multiple dimensions:
+
+1. **Architectural Analysis**: Detailed examination of model components and design choices
+2. **Performance Evaluation**: Comparative analysis across various NLP tasks and benchmarks
+3. **Computational Efficiency**: Study of training and inference requirements
+4. **Interpretability Assessment**: Analysis of attention patterns and model behavior
+5. **Scalability Considerations**: Examination of how models perform at different scales
+
+### Key Findings and Insights
+
+- **Attention Mechanism Evolution**: Traced the development from basic attention to multi-head self-attention
+- **Bidirectional vs. Autoregressive**: Comparative analysis of BERT's bidirectional approach versus GPT's autoregressive design
+- **Transfer Learning Impact**: Assessment of how pre-trained transformers revolutionized NLP
+- **Scaling Laws**: Early insights into the relationship between model size, data, and performance
+- **Emergent Capabilities**: Identification of unexpected behaviors in large-scale models
+
+### Technical Deep Dives
+
+#### Attention Mechanisms
+- **Self-Attention**: Mathematical foundations and computational complexity
+- **Multi-Head Attention**: Parallel processing and representation learning
+- **Positional Encoding**: Methods for incorporating sequence order information
+
+#### Model Architectures
+- **BERT Variants**: RoBERTa, ALBERT, DeBERTa, and architectural improvements
+- **GPT Evolution**: From GPT-1 to GPT-3 and scaling considerations
+- **Hybrid Approaches**: Models combining bidirectional and autoregressive elements
+
+### Impact on Subsequent Research
+
+This foundational review directly informed my later research directions:
+- **LLM Reasoning**: Understanding of how attention patterns relate to reasoning capabilities
+- **AI Alignment**: Insights into model behavior and controllability challenges
+- **Interpretability**: Foundation for developing steering techniques and understanding model internals
+
+### Academic Contributions
+
+- **Comprehensive Literature Survey**: Systematic review of 100+ papers on transformer architectures
+- **Comparative Analysis Framework**: Methodology for evaluating different architectural choices
+- **Future Research Roadmap**: Identification of promising research directions that influenced subsequent work
+- **PhD Candidacy Advancement**: Successfully completed candidacy requirements with distinction
+
+### Technologies and Tools Used
+
+- **Research Frameworks**: PyTorch, TensorFlow for model analysis
+- **Evaluation Suites**: GLUE, SuperGLUE, and custom benchmarks
+- **Visualization Tools**: Attention visualization and model interpretation libraries
+- **Academic Resources**: Comprehensive literature review across top-tier venues
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

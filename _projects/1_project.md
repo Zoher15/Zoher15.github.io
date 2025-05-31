@@ -1,12 +1,53 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Text2Graph
+description: Semantic role labeling pipeline for knowledge graph construction
+img: assets/img/text2graph.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
+
+## Text2Graph: Semantic Role Labeling for Knowledge Graph Construction
+
+**Duration:** January 2019 – May 2023  
+**Institution:** Indiana University
+
+### Project Overview
+
+Text2Graph is a comprehensive semantic role labeling pipeline designed to extract pseudo-Abstract Meaning Representations (AMRs) from unstructured text, enabling knowledge graph construction at scale. This project represents a significant advancement in automated knowledge extraction and graph-based text understanding.
+
+### Key Contributions
+
+- **Semantic Role Labeling Pipeline**: Developed a robust system for identifying semantic roles and relationships within natural language text
+- **Pseudo-AMR Extraction**: Created methods to generate AMR-like representations that capture the semantic structure of sentences
+- **Scalable Architecture**: Designed the system to handle large-scale text processing for knowledge graph construction
+- **Knowledge Graph Integration**: Enabled seamless conversion from textual data to structured graph representations
+
+### Technical Approach
+
+The Text2Graph pipeline combines state-of-the-art natural language processing techniques with graph-based representations:
+
+1. **Text Preprocessing**: Advanced tokenization and linguistic analysis
+2. **Semantic Role Identification**: Machine learning models for role classification
+3. **Relationship Extraction**: Automated detection of semantic relationships
+4. **Graph Construction**: Conversion of semantic structures to knowledge graphs
+5. **Scalability Optimization**: Efficient processing for large text corpora
+
+### Impact and Applications
+
+This work has significant implications for:
+- **Information Extraction**: Automated knowledge discovery from text
+- **Question Answering Systems**: Enhanced understanding of textual content
+- **Knowledge Base Construction**: Scalable methods for building structured knowledge
+- **Semantic Search**: Improved text understanding for search applications
+
+### Technologies Used
+
+- **Natural Language Processing**: Advanced NLP libraries and frameworks
+- **Graph Processing**: Specialized tools for knowledge graph manipulation
+- **Machine Learning**: Custom models for semantic role classification
+- **Scalable Computing**: Distributed processing for large-scale text analysis
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

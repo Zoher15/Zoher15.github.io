@@ -8,8 +8,8 @@ middle_name:
 last_name: Kachwala
 email: #
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- A PhD Student at Indiana University who aims to enhance Large Language Models' reasoning, especially for fact-checking, through easily adaptable test-time interventions.
-keywords: knowledge graphs, natural language understanding, natural language processing, artificial intelligences, abstract meaning representations, complex systems, fact-checking, question answering, natural language inference, semantic textual similarity, graph machine learning, semantic graphs # add your own keywords or leave empty
+ A PhD candidate at Indiana University specializing in Natural Language Processing (LLMs), AI Alignment, and Reliable Machine Learning. My research centers on novel steering techniques to improve safety, controllability, and interpretability in LLMs/VLMs.
+keywords: AI alignment, AI safety, large language models, LLMs, multimodal AI, VLMs, natural language processing, reliable machine learning, AI-generated image detection, content moderation, prompt engineering, controllability, interpretability, steering techniques # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: face.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
