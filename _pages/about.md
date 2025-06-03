@@ -25,7 +25,9 @@ This work contributes to the broader goals of AI alignment and safety, ensuring 
 ---
 
 <div class="github-activity" style="text-align: center; margin: 2rem 0;">
-  <h3>Contribution Activity</h3>
+  <h3>Recent GitHub Activity</h3>
+  <p style="color: #666; font-size: 0.9em; margin-bottom: 1rem;">Contribution activity for the past year</p>
   <img src="https://ghchart.rshah.org/zoher15" alt="GitHub Contribution Chart" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <p style="color: #888; font-size: 0.8em; margin-top: 0.5rem;">Updated automatically • <a href="https://github.com/zoher15" target="_blank" style="color: #0366d6;">View on GitHub</a></p>
 </div>
 
