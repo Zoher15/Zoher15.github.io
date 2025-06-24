@@ -8,7 +8,7 @@ middle_name:
 last_name: Kachwala
 email: #
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- A PhD candidate at Indiana University specializing in Natural Language Processing (LLMs), AI Alignment, and Reliable Machine Learning. My research centers on novel steering techniques to improve safety, controllability, and interpretability in LLMs/VLMs.
+  PhD candidate advancing the capabilities of frontier Large Language Models to solve challenging real-world problems. My research improves core model performance in practical applications like semantic search and safe content generation.
 keywords: AI alignment, AI safety, large language models, LLMs, multimodal AI, VLMs, natural language processing, reliable machine learning, AI-generated image detection, content moderation, prompt engineering, controllability, interpretability, steering techniques # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: face.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

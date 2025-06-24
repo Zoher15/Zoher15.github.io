@@ -14,13 +14,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing a PhD in Computer Science at [Indiana University](https://www.iu.edu/)'s [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), under the guidance of [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am actively involved in the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also have the privilege to collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).
+I am a PhD candidate at [Indiana University](https://www.iu.edu/)'s [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), under the guidance of [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am actively involved in the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also have the privilege to collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).
 
-My research specializes in **Natural Language Processing (LLMs)**, **AI Alignment**, and **Reliable Machine Learning**. I focus on developing novel *steering* techniques to improve **safety, controllability**, and **interpretability** in Large Language Models and Vision-Language Models.
+My research focuses on advancing the capabilities of frontier **Large Language Models** to solve challenging real-world problems. I improve core model performance in practical applications like **semantic search and safe content generation** through:
 
-My current research centers on three key areas: **Zero-shot detection of AI-generated images** through task-aligned prompting of VLMs, supporting authenticity verification and content trust; **Community-aware content moderation**, using LLMs to interpret user history and apply nuanced, rule-grounded moderation at scale; and **Controlled reasoning in LLMs**, analyzing decoding dynamics to guide generation toward faithful, safe, and interpretable outputs.
+-   **Advanced LLM Decoding**: Designing and implementing novel decoding strategies to improve chain-of-thought reasoning, making models more robust, interpretable, and aligned with complex instructions.
+-   **Multimodal & Evaluation**: Developing prompt-based steering methods for VLMs to enhance performance on tasks like synthetic content detection, and creating robust evaluation pipelines.
+-   **Safe and Aligned AI**: Applying fine-tuning and prompt engineering to build policy-aware moderation systems that adhere to nuanced, subjective rules in online communities.
 
-This work contributes to the broader goals of AI alignment and safety, ensuring that advanced AI systems remain controllable, interpretable, and aligned with human values and community standards.
+This work contributes to building more reliable, interpretable, and aligned AI systems.
 
 ---
 
