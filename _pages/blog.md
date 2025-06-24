@@ -20,7 +20,6 @@ pagination:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/pQMfbLQhz4I?si=SrygrgR9DG8sfwvF" title="Rematch YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -193,4 +192,3 @@ pagination:
 {% endif %}
 
 </div>
-

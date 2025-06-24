@@ -18,9 +18,9 @@ I am a PhD candidate at [Indiana University](https://www.iu.edu/)'s [Luddy Schoo
 
 My research focuses on advancing the capabilities of frontier **Large Language Models** to solve challenging real-world problems. I improve core model performance in practical applications like **semantic search and safe content generation** through:
 
--   **Advanced LLM Decoding**: Designing and implementing novel decoding strategies to improve chain-of-thought reasoning, making models more robust, interpretable, and aligned with complex instructions.
--   **Multimodal & Evaluation**: Developing prompt-based steering methods for VLMs to enhance performance on tasks like synthetic content detection, and creating robust evaluation pipelines.
--   **Safe and Aligned AI**: Applying fine-tuning and prompt engineering to build policy-aware moderation systems that adhere to nuanced, subjective rules in online communities.
+- **Advanced LLM Decoding**: Designing and implementing novel decoding strategies to improve chain-of-thought reasoning, making models more robust, interpretable, and aligned with complex instructions.
+- **Multimodal & Evaluation**: Developing prompt-based steering methods for VLMs to enhance performance on tasks like synthetic content detection, and creating robust evaluation pipelines.
+- **Safe and Aligned AI**: Applying fine-tuning and prompt engineering to build policy-aware moderation systems that adhere to nuanced, subjective rules in online communities.
 
 This work contributes to building more reliable, interpretable, and aligned AI systems.
 
@@ -32,4 +32,3 @@ This work contributes to building more reliable, interpretable, and aligned AI s
   <img src="https://ghchart.rshah.org/zoher15" alt="GitHub Contribution Chart" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p style="color: #888; font-size: 0.8em; margin-top: 0.5rem;">Updated automatically • <a href="https://github.com/zoher15" target="_blank" style="color: #0366d6;">View on GitHub</a></p>
 </div>
-

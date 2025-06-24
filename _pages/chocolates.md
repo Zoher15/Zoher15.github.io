@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
+
 (text by ChatGPT)
 
 Welcome to our delicious dive into the world of chocolate ratings! We've collected opinions from 11 participants on 15 different chocolates. Below, you'll find a series of colorful box plots, each one exploring a different tasty trend. Let's break it down:
@@ -18,7 +19,7 @@ Our first box plot gives a bird's-eye view of **all 15 chocolates** rated by our
 
 ![image](https://github.com/user-attachments/assets/7b2a2181-c84c-47c2-9be5-ef1420a34ad7){: style="display: block; max-width: 100%; height: auto; margin: 0 auto;"}
 
-**Takeaway:** The ratings for our 15 chocolates were as mixed as a bowl of chocolate chips! Some chocolates hit the sweet spot (literally), while others crumbled under the pressure. Our tasters didn't hold back with their critiques—*looking at you, super dark chocolates!* But a few stood out from the crowd, emerging as clear fan favorites:
+**Takeaway:** The ratings for our 15 chocolates were as mixed as a bowl of chocolate chips! Some chocolates hit the sweet spot (literally), while others crumbled under the pressure. Our tasters didn't hold back with their critiques—_looking at you, super dark chocolates!_ But a few stood out from the crowd, emerging as clear fan favorites:
 
 1. **Tony's Chocolonely Dark Almond (40-50%)**
 2. **Tony's Chocolonely Milk (30%)**
@@ -31,11 +32,12 @@ Interestingly, all three winners are part of Tony's Open Chain for Cocoa! Looks 
 Now let's zoom in on the **milk chocolates**—those with 30% cocoa content, to be exact! These are typically the smooth, sweet favorites. But were they a crowd-pleaser this time?
 
 **Chocolates Analyzed**:
-  - Lindt (30%)
-  - Cafe Decker (30%)
-  - Lily's Creamy Milk (30%)
-  - Chocolove (30%)
-  - Tony's Chocolonely (30%)
+
+- Lindt (30%)
+- Cafe Decker (30%)
+- Lily's Creamy Milk (30%)
+- Chocolove (30%)
+- Tony's Chocolonely (30%)
 
 **Box Plot Explanation**: This box plot focuses exclusively on milk chocolates, once again sorted by their median rating—least liked on the left, most liked on the right. Do these creamy classics live up to their smooth and sweet reputation, or did some tasters find them a little too meh? The width of each box shows how much people agreed (or disagreed)—the wider it is, the more mixed the opinions. Will these chocolates melt hearts or leave some wanting a richer bite? Let's dive in and find out! 🍫✨
 
@@ -52,11 +54,12 @@ Smooth, sweet, and worthy of every bite! 🍫👑
 For our third plot, we move to the world of **dark chocolates** with cocoa content between 40% and 50%. These chocolates strike a balance between sweet and bitter, appealing to a wide audience—or so we think!
 
 **Chocolates Analyzed**:
-  - Tony's Chocolonely (40-50%)
-  - Ghirardelli (40-50%)
-  - Endangered Species (40-50%)
-  - Fresh Thyme (40-50%)
-  - Mr. Beast (40-50%)
+
+- Tony's Chocolonely (40-50%)
+- Ghirardelli (40-50%)
+- Endangered Species (40-50%)
+- Fresh Thyme (40-50%)
+- Mr. Beast (40-50%)
 
 **Box Plot Explanation**: This box plot focuses exclusively on dark chocolates, sorted by their median rating—least liked on the left and most liked on the right. The question is: did these semi-dark delights strike the perfect balance, or did they leave some tasters craving a touch more sweetness... or perhaps even more bitterness? Either way, expect a few surprises—because when it comes to dark chocolate, not every bite is everyone's cup of cocoa! 🍫😋
 
@@ -69,10 +72,11 @@ For our third plot, we move to the world of **dark chocolates** with cocoa conte
 Now it's time for the **extra dark chocolates**, the true heroes (or villains) of the tasting session. These intense chocolates aren't for the faint-hearted!
 
 **Chocolates Analyzed**:
-  - Tony's Chocolonely (70%)
-  - Beyond Good (70%)
-  - Equal Exchange (92%)
-  - Lindt (70%)
+
+- Tony's Chocolonely (70%)
+- Beyond Good (70%)
+- Equal Exchange (92%)
+- Lindt (70%)
 
 **Box Plot Explanation**: This box plot features extra dark chocolates sorted by their median rating, with the least liked on the left and the most liked on the right. These bold chocolates boast strong cocoa content—will they be adored for their richness or found too intense? Expect a mix of opinions, with some chocolates winning hearts and others... well, not everyone's cup of cocoa! Get ready for a tasty journey through the highs and lows of dark chocolate love! 🍫✨
 
@@ -113,4 +117,3 @@ As consumers, it's important to be mindful of the brands we support. When you ch
 In the end, this survey reminds us that while our tastes in chocolate may vary, we can all agree that supporting ethical brands makes every bite a little sweeter. 🍫
 
 ---
-
