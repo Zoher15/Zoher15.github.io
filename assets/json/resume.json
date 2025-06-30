@@ -150,11 +150,25 @@
   "skills": [
     {
       "name": "Research Areas",
-      "keywords": ["Large Language Models", "Generative AI", "Multimodal Systems", "AI Safety", "Scalable ML", "Foundational AI Systems", "Next-Generation Intelligent Systems"]
+      "keywords": [
+        "Large Language Models",
+        "Generative AI",
+        "Multimodal Systems",
+        "AI Safety",
+        "Scalable ML",
+        "Foundational AI Systems",
+        "Next-Generation Intelligent Systems"
+      ]
     },
     {
       "name": "ML Frameworks",
-      "keywords": ["PyTorch", "Hugging Face", "TensorFlow", "Scikit-learn", "Distributed Training"]
+      "keywords": [
+        "PyTorch",
+        "Hugging Face",
+        "TensorFlow",
+        "Scikit-learn",
+        "Distributed Training"
+      ]
     },
     {
       "name": "Programming",
@@ -162,11 +176,23 @@
     },
     {
       "name": "Systems & Infrastructure",
-      "keywords": ["Git", "Docker", "Linux", "Google Cloud Platform", "Large-scale Computing"]
+      "keywords": [
+        "Git",
+        "Docker",
+        "Linux",
+        "Google Cloud Platform",
+        "Large-scale Computing"
+      ]
     },
     {
       "name": "Research Methods",
-      "keywords": ["Collaborative Research", "Model Evaluation", "Benchmark Development", "Reproducible Science", "Large-scale Experimentation"]
+      "keywords": [
+        "Collaborative Research",
+        "Model Evaluation",
+        "Benchmark Development",
+        "Reproducible Science",
+        "Large-scale Experimentation"
+      ]
     }
   ],
   "languages": [],
