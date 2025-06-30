@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-cv_pdf: zoher_kachwala_resume.pdf
+cv_pdf: main.pdf
 description:
 toc:
   sidebar: left
