@@ -8,8 +8,8 @@ middle_name:
 last_name: Kachwala
 email: #
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD candidate advancing the capabilities of frontier Large Language Models to solve challenging real-world problems. My research improves core model performance in practical applications like semantic search and safe content generation.
-keywords: AI alignment, AI safety, large language models, LLMs, multimodal AI, VLMs, natural language processing, reliable machine learning, AI-generated image detection, content moderation, prompt engineering, controllability, interpretability, steering techniques # add your own keywords or leave empty
+  PhD candidate and Student Researcher advancing the capabilities of frontier Large Language Models to solve large-scale, real-world challenges. My collaborative research drives scientific advancement in foundational AI systems through breakthrough technologies for semantic search, safe content generation, and scalable multimodal intelligence.
+keywords: large language models, LLMs, student researcher, collaborative research, foundational AI systems, breakthrough technologies, scalable machine learning, multimodal AI, VLMs, AI safety, scientific advancement, large-scale systems, Google research, distributed training, next-generation intelligent systems # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: face.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: projects
-permalink:
-description: A growing collection of your cool projects.
-nav: false
+permalink: /projects/
+description: Collaborative research projects advancing foundational AI systems and breakthrough technologies for large-scale, real-world impact.
+nav: true
 nav_order: 1
 display_categories: [work, fun]
 horizontal: false

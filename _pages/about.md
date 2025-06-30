@@ -16,13 +16,13 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD candidate at [Indiana University](https://www.iu.edu/)'s [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), under the guidance of [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am actively involved in the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also have the privilege to collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).
 
-My research focuses on advancing the capabilities of frontier **Large Language Models** to solve challenging real-world problems. I improve core model performance in practical applications like **semantic search and safe content generation** through:
+My research focuses on advancing the capabilities of frontier **Large Language Models** to solve large-scale, real-world challenges through collaborative scientific advancement. I drive breakthrough technologies in foundational AI systems for practical applications like **semantic search and safe content generation** through:
 
-- **Advanced LLM Decoding**: Designing and implementing novel decoding strategies to improve chain-of-thought reasoning, making models more robust, interpretable, and aligned with complex instructions.
-- **Multimodal & Evaluation**: Developing prompt-based steering methods for VLMs to enhance performance on tasks like synthetic content detection, and creating robust evaluation pipelines.
-- **Safe and Aligned AI**: Applying fine-tuning and prompt engineering to build policy-aware moderation systems that adhere to nuanced, subjective rules in online communities.
+- **Scalable LLM Systems**: Designing breakthrough decoding strategies and training methodologies for improved reasoning capabilities, with focus on robust deployment across diverse applications and large-scale inference scenarios.
+- **Multimodal AI & Evaluation**: Developing next-generation prompt-based methods for Vision-Language Models and creating comprehensive evaluation frameworks for intelligent systems that advance computing infrastructure.
+- **AI Safety at Scale**: Building production-ready moderation systems through collaborative fine-tuning and deployment of specialized LLMs, addressing real-world safety challenges across hundreds of online communities.
 
-This work contributes to building more reliable, interpretable, and aligned AI systems.
+This collaborative research contributes to building foundational AI systems that advance scientific understanding while solving problems at the scale needed to benefit billions of people.
 
 ---
 

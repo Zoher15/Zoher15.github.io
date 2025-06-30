@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Text2Graph
-description: Designed a system to extract graph-based representations from text, creating structured knowledge for knowledge-grounded reasoning in LLMs.
+title: Text2Graph: Scalable Knowledge Extraction
+description: Collaborative development of breakthrough technologies for extracting structured knowledge representations from text at scale, enabling advanced knowledge-grounded reasoning in large language models.
 img: assets/img/text2graph.jpg
 importance: 1
 category: work
@@ -17,6 +17,6 @@ related_publications: false
     An overview of the Text2Graph pipeline, which extracts knowledge graphs from text.
 </div>
 
-The **Text2Graph** project involved designing and building a system to extract graph-based representations from unstructured text. The primary goal was to create a robust pipeline for generating structured knowledge that could be used for knowledge-grounded reasoning in Large Language Models.
+The **Text2Graph** project represents a collaborative effort to advance foundational AI systems through breakthrough knowledge extraction technologies. This large-scale research initiative focused on designing and building production-ready systems to extract structured graph representations from unstructured text at scale.
 
-This work has significant implications for improving information extraction, enabling more sophisticated question-answering systems, and providing a scalable method for building knowledge bases directly from large text corpora.
+This collaborative research drives scientific advancement in knowledge-grounded reasoning for next-generation Large Language Models. The work enables breakthrough capabilities in information extraction, powers sophisticated question-answering systems, and provides scalable methodologies for building comprehensive knowledge bases from massive text corpora. The project demonstrates how foundational research can solve real-world challenges at the scale needed to impact billions of users.

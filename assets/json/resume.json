@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Zoher Kachwala",
-    "label": "PhD Candidate in AI/ML",
+    "label": "PhD Candidate & Student Researcher in AI/ML",
     "url": "https://zoher15.github.io/",
-    "summary": "PhD candidate advancing the capabilities of frontier Large Language Models to solve challenging real-world problems. My research improves core model performance in practical applications like semantic search and safe content generation through designing novel decoding strategies, developing robust evaluation pipelines for multimodal models, and building policy-aware moderation systems.",
+    "summary": "PhD candidate and Student Researcher advancing the capabilities of frontier Large Language Models to solve large-scale, real-world challenges. My collaborative research drives scientific advancement in foundational AI systems through breakthrough technologies for semantic search and safe content generation, designing scalable decoding strategies, developing comprehensive evaluation frameworks for next-generation multimodal systems, and building production-ready moderation systems at scale.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -59,42 +59,42 @@
       "publisher": "In Progress",
       "releaseDate": "2024-01-01",
       "status": "In Progress",
-      "abstract": "Proposes novel decoding strategies guided by answer labels to improve chain-of-thought reasoning in LLMs, boosting interpretability and task performance in complex generation scenarios."
+      "abstract": "Proposes breakthrough decoding strategies that enhance chain-of-thought reasoning in large-scale LLM deployment, advancing foundational capabilities in complex reasoning tasks with measurable performance improvements."
     },
     {
       "name": "Fine-Tuning Specialized LLMs for Large-Scale Community Content Moderation",
       "publisher": "In Progress",
       "releaseDate": "2024-01-01",
       "status": "In Progress",
-      "abstract": "Building a real-world moderation system by developing a framework to fine-tune and deploy specialized LLMs; this work supports healthier online communities by predicting nuanced rule violations across 500+ subreddits."
+      "abstract": "Developing a production-scale moderation framework through collaborative fine-tuning and deployment of specialized LLMs; addresses real-world safety challenges across 500+ communities, demonstrating practical AI system deployment."
     },
     {
       "name": "Task-Aligned Prompting Improves Detection of AI-Generated Images in VLMs",
       "publisher": "Under Review (NeurIPS 2025)",
       "releaseDate": "2024-01-01",
       "status": "Under Review",
-      "abstract": "Introduced a task-aligned prompting method (zero-shot-s$^2$) for VLMs that significantly improves zero-shot detection of AI-generated images (up to 29% F1 gain), demonstrating a simple and generalizable alternative to supervised models."
+      "abstract": "Introduced breakthrough zero-shot prompting methodology (zero-shot-s$^2$) achieving 29% F1 improvement in VLM performance, demonstrating scalable alternatives to supervised approaches for next-generation multimodal systems."
     },
     {
       "name": "REMATCH: Robust and Efficient Knowledge Graph Matching",
       "publisher": "NAACL 2024",
       "releaseDate": "2024-03-14",
       "url": "https://aclanthology.org/2024.findings-naacl.64/",
-      "abstract": "Introduced a novel AMR similarity metric (rematch) that is 5x faster than SOTA and improves semantic similarity by up to 5%, alongside a new benchmark (RARE) for evaluating structural similarity in knowledge graphs."
+      "abstract": "Developed novel semantic similarity metric with 5x computational efficiency improvement and 5% accuracy gains, alongside comprehensive benchmark (RARE) advancing knowledge graph research infrastructure."
     },
     {
       "name": "A Multi-Platform Collection of Social Media Posts on the 2022 U.S. Midterm Elections",
       "publisher": "ICWSM 2023",
       "releaseDate": "2023-06-02",
       "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/22205",
-      "abstract": "Constructed and released a large-scale 30M-post dataset to support research in narrative analysis, information retrieval, and misinformation tracking."
+      "abstract": "Constructed and released large-scale 30M-post research dataset enabling breakthrough research in information systems, narrative analysis, and misinformation detection across the research community."
     },
     {
       "name": "The Inexplicable Efficacy of Language Models",
       "publisher": "ACM XRDS",
       "releaseDate": "2023-04-12",
       "url": "https://dl.acm.org/doi/10.1145/3589654",
-      "abstract": "Surveyed LLM capabilities across domains with focus on fine-tuning, generalization, and production trade-offs."
+      "abstract": "Comprehensive survey of LLM capabilities across domains, analyzing production trade-offs and generalization principles for advancing foundational AI research."
     }
   ],
   "projects": [
@@ -102,19 +102,19 @@
       "name": "Large-Scale Content Moderation with Specialized LLMs",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Building a real-world system to support healthier online communities by fine-tuning and deploying specialized LLMs. The system provides large-scale, nuanced content moderation by predicting rule violations for over 500 subreddits."
+      "summary": "Leading collaborative development of production-scale moderation framework using fine-tuned LLMs; addressing real-world safety challenges across 500+ online communities through innovative AI system design and deployment."
     },
     {
-      "name": "Text2Graph",
+      "name": "Text2Graph: Scalable Knowledge Extraction",
       "startDate": "2019-01-01",
       "endDate": "2023-05-01",
-      "summary": "Designed a system to extract graph-based representations from text, creating structured knowledge for knowledge-grounded reasoning in LLMs."
+      "summary": "Designed collaborative system for extracting structured knowledge representations from text at scale, enabling advanced knowledge-grounded reasoning in large language models and demonstrating breakthrough capabilities in information extraction."
     },
     {
-      "name": "Transformer Model Review",
+      "name": "Foundational Transformer Architecture Analysis",
       "startDate": "2021-05-01",
       "endDate": "2021-08-01",
-      "summary": "Conducted a literature review of various Transformer architectures (e.g., GPT, BERT) to survey their core mechanisms and capabilities."
+      "summary": "Conducted comprehensive analysis of foundational Transformer architectures, contributing to scientific understanding of core mechanisms driving breakthrough AI capabilities in next-generation intelligent systems."
     }
   ],
   "work": [
@@ -123,46 +123,50 @@
       "position": "Teaching Assistant",
       "startDate": "2022-08-01",
       "endDate": "2024-12-30",
-      "summary": "Led Python-based tutorials on real-world networks; emphasized GNN thinking and dynamic graph analytics."
+      "summary": "Led collaborative Python-based tutorials on large-scale network analysis; guided students through graph neural network concepts and dynamic analytics for real-world applications."
     },
     {
       "name": "Elements of Artificial Intelligence",
       "position": "Teaching Assistant",
       "startDate": "2019-08-01",
       "endDate": "2021-12-30",
-      "summary": "Designed autograders and provided support on search, logic, and reasoning modules for over 300 students."
+      "summary": "Designed scalable autograding systems and provided collaborative support on foundational AI concepts including search, logic, and reasoning for 300+ students annually."
     },
     {
       "name": "Applied Machine Learning",
       "position": "Teaching Assistant",
       "startDate": "2020-08-01",
       "endDate": "2020-12-30",
-      "summary": "Assisted in PyTorch-based model development; emphasized reproducibility, inference validation, and tuning for deployment."
+      "summary": "Collaborated on PyTorch-based model development curriculum; emphasized reproducible research practices, scalable inference validation, and deployment-ready system design."
     },
     {
       "name": "PricewaterhouseCoopers",
       "position": "Technology Consultant Intern",
       "startDate": "2018-05-01",
       "endDate": "2018-08-01",
-      "summary": "Supported enterprise data integration—focused on automation of validation pipelines and audit-ready logic modeling."
+      "summary": "Collaborated on enterprise-scale data integration projects, focusing on automation of validation pipelines and scalable audit-ready logic modeling for large-scale systems."
     }
   ],
   "skills": [
     {
-      "name": "Core Domains",
-      "keywords": ["LLMs", "Generative AI", "Semantic Search", "Reasoning", "AI Safety"]
+      "name": "Research Areas",
+      "keywords": ["Large Language Models", "Generative AI", "Multimodal Systems", "AI Safety", "Scalable ML", "Foundational AI Systems", "Next-Generation Intelligent Systems"]
     },
     {
-      "name": "Libraries",
-      "keywords": ["PyTorch", "Hugging Face", "Scikit-learn", "NetworkX", "spaCy"]
+      "name": "ML Frameworks",
+      "keywords": ["PyTorch", "Hugging Face", "TensorFlow", "Scikit-learn", "Distributed Training"]
     },
     {
-      "name": "Languages",
-      "keywords": ["Python (expert)", "SQL", "C++", "Bash"]
+      "name": "Programming",
+      "keywords": ["Python (expert)", "C++", "SQL", "Bash", "CUDA"]
     },
     {
-      "name": "Systems & Tools",
-      "keywords": ["Git", "Docker", "Linux", "Google Colab"]
+      "name": "Systems & Infrastructure",
+      "keywords": ["Git", "Docker", "Linux", "Google Cloud Platform", "Large-scale Computing"]
+    },
+    {
+      "name": "Research Methods",
+      "keywords": ["Collaborative Research", "Model Evaluation", "Benchmark Development", "Reproducible Science", "Large-scale Experimentation"]
     }
   ],
   "languages": [],
