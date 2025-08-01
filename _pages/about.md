@@ -16,13 +16,13 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD candidate at [Indiana University](https://www.iu.edu/)'s [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), under the guidance of [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am actively involved in the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also have the privilege to collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).
 
-My research focuses on advancing the capabilities of frontier **Large Language Models** to solve large-scale, real-world challenges through collaborative scientific advancement. I drive breakthrough technologies in foundational AI systems for practical applications like **semantic search and safe content generation** through:
+My research focuses on **Large Language Models** with emphasis on evaluation, interpretability, and production deployment. I work on practical applications like **semantic search and safe content generation** through:
 
-- **Scalable LLM Systems**: Designing breakthrough decoding strategies and training methodologies for improved reasoning capabilities, with focus on robust deployment across diverse applications and large-scale inference scenarios.
-- **Multimodal AI & Evaluation**: Developing next-generation prompt-based methods for Vision-Language Models and creating comprehensive evaluation frameworks for intelligent systems that advance computing infrastructure.
-- **AI Safety at Scale**: Building production-ready moderation systems through collaborative fine-tuning and deployment of specialized LLMs, addressing real-world safety challenges across hundreds of online communities.
+- **Model Evaluation & Interpretability**: Developing evaluation frameworks for LLMs and Vision-Language Models, with focus on understanding model behavior and creating transparent assessment methodologies.
+- **Production AI Systems**: Deploying specialized LLMs for content moderation across 500+ online communities, building interpretable moderation frameworks.
+- **Multimodal AI Research**: Creating novel prompting methods for Vision-Language Models achieving 29% F1 improvement, with emphasis on zero-shot approaches and systematic evaluation.
 
-This collaborative research contributes to building foundational AI systems that advance scientific understanding while solving problems at the scale needed to benefit billions of people.
+This research contributes to making AI systems more transparent and interpretable through rigorous experimental design and practical deployment.
 
 ---
 

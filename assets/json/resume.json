@@ -3,7 +3,7 @@
     "name": "Zoher Kachwala",
     "label": "PhD Candidate & Student Researcher in AI/ML",
     "url": "https://zoher15.github.io/",
-    "summary": "PhD candidate and Student Researcher advancing the capabilities of frontier Large Language Models to solve large-scale, real-world challenges. My collaborative research drives scientific advancement in foundational AI systems through breakthrough technologies for semantic search and safe content generation, designing scalable decoding strategies, developing comprehensive evaluation frameworks for next-generation multimodal systems, and building production-ready moderation systems at scale.",
+    "summary": "PhD candidate specializing in Large Language Models with focus on evaluation, interpretability, and production deployment. Research expertise spans rigorous model assessment, transparent AI systems, and real-world applications for semantic search and safe content generation. Experienced in research-to-production deployment, rigorous experimental design, and translating complex AI research into practical tools and frameworks.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -59,21 +59,21 @@
       "publisher": "In Progress",
       "releaseDate": "2024-01-01",
       "status": "In Progress",
-      "abstract": "Proposes breakthrough decoding strategies that enhance chain-of-thought reasoning in large-scale LLM deployment, advancing foundational capabilities in complex reasoning tasks with measurable performance improvements."
+      "abstract": "Develops novel decoding strategies that enhance chain-of-thought reasoning in LLM deployment, improving performance on complex reasoning tasks with measurable gains."
     },
     {
       "name": "Fine-Tuning Specialized LLMs for Large-Scale Community Content Moderation",
       "publisher": "In Progress",
       "releaseDate": "2024-01-01",
       "status": "In Progress",
-      "abstract": "Developing a production-scale moderation framework through collaborative fine-tuning and deployment of specialized LLMs; addresses real-world safety challenges across 500+ communities, demonstrating practical AI system deployment."
+      "abstract": "Fine-tuning and deploying specialized LLMs for production content moderation across 500+ online communities; developing interpretable moderation framework addressing real-world safety challenges."
     },
     {
       "name": "Task-Aligned Prompting Improves Detection of AI-Generated Images in VLMs",
       "publisher": "Under Review (NeurIPS 2025)",
       "releaseDate": "2024-01-01",
       "status": "Under Review",
-      "abstract": "Introduced breakthrough zero-shot prompting methodology (zero-shot-s$^2$) achieving 29% F1 improvement in VLM performance, demonstrating scalable alternatives to supervised approaches for next-generation multimodal systems."
+      "abstract": "Developed zero-shot prompting methodology (zero-shot-s$^2$) achieving 29% F1 improvement in VLM performance, providing interpretable alternatives to supervised approaches for multimodal AI systems."
     },
     {
       "name": "REMATCH: Robust and Efficient Knowledge Graph Matching",
@@ -87,7 +87,7 @@
       "publisher": "ICWSM 2023",
       "releaseDate": "2023-06-02",
       "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/22205",
-      "abstract": "Constructed and released large-scale 30M-post research dataset enabling breakthrough research in information systems, narrative analysis, and misinformation detection across the research community."
+      "abstract": "Constructed and released 30M-post research dataset enabling research in information systems, narrative analysis, and misinformation detection across the research community."
     },
     {
       "name": "The Inexplicable Efficacy of Language Models",
@@ -102,19 +102,19 @@
       "name": "Large-Scale Content Moderation with Specialized LLMs",
       "startDate": "2023-01-01",
       "endDate": "Present",
-      "summary": "Leading collaborative development of production-scale moderation framework using fine-tuned LLMs; addressing real-world safety challenges across 500+ online communities through innovative AI system design and deployment."
+      "summary": "Fine-tuning and deploying specialized LLMs for production content moderation across 500+ online communities; developing interpretable moderation framework addressing real-world safety challenges."
     },
     {
       "name": "Text2Graph: Scalable Knowledge Extraction",
       "startDate": "2019-01-01",
       "endDate": "2023-05-01",
-      "summary": "Designed collaborative system for extracting structured knowledge representations from text at scale, enabling advanced knowledge-grounded reasoning in large language models and demonstrating breakthrough capabilities in information extraction."
+      "summary": "Designed system for extracting structured knowledge representations from text at scale, enabling knowledge-grounded reasoning in large language models."
     },
     {
       "name": "Foundational Transformer Architecture Analysis",
       "startDate": "2021-05-01",
       "endDate": "2021-08-01",
-      "summary": "Conducted comprehensive analysis of foundational Transformer architectures, contributing to scientific understanding of core mechanisms driving breakthrough AI capabilities in next-generation intelligent systems."
+      "summary": "Conducted comprehensive literature review and analysis of foundational Transformer architectures, contributing to understanding of core mechanisms driving AI capabilities."
     }
   ],
   "work": [
@@ -151,22 +151,24 @@
     {
       "name": "Research Areas",
       "keywords": [
+        "AI Interpretability",
+        "Model Evaluation", 
         "Large Language Models",
-        "Generative AI",
         "Multimodal Systems",
-        "AI Safety",
-        "Scalable ML",
-        "Foundational AI Systems",
-        "Next-Generation Intelligent Systems"
+        "AI Safety"
       ]
+    },
+    {
+      "name": "Programming",
+      "keywords": ["Python (expert)", "JavaScript", "C++", "SQL", "Bash", "CUDA"]
     },
     {
       "name": "ML Frameworks",
       "keywords": ["PyTorch", "Hugging Face", "TensorFlow", "Scikit-learn", "Distributed Training"]
     },
     {
-      "name": "Programming",
-      "keywords": ["Python (expert)", "C++", "SQL", "Bash", "CUDA"]
+      "name": "Data Visualization",
+      "keywords": ["matplotlib", "seaborn", "pandas visualization", "interactive notebooks"]
     },
     {
       "name": "Systems & Infrastructure",
@@ -174,7 +176,7 @@
     },
     {
       "name": "Research Methods",
-      "keywords": ["Collaborative Research", "Model Evaluation", "Benchmark Development", "Reproducible Science", "Large-scale Experimentation"]
+      "keywords": ["Model Evaluation", "Rigorous Experimentation", "Benchmark Development", "Reproducible Science"]
     }
   ],
   "languages": [],
