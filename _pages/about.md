@@ -14,15 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at [Indiana University](https://www.iu.edu/)'s [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), under the guidance of [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am actively involved in the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also have the privilege to collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).
+I am a PhD candidate at [Indiana University](https://www.iu.edu/), in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), advised by [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am an active member of the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).  
 
-My research focuses on **Large Language Models** with emphasis on evaluation, interpretability, and production deployment. I work on practical applications like **semantic search and safe content generation** through:
+My research focuses on **AI reasoning for trustworthy discourse**, addressing challenges such as content moderation and the detection of AI-generated media. I introduced the dataset and problem of **Context-aware Reddit Moderation**, where a moderation thread includes the complete context—images, posts, and comments from a subreddit—to determine whether a comment violates community rules.  
 
-- **Model Evaluation & Interpretability**: Developing evaluation frameworks for LLMs and Vision-Language Models, with focus on understanding model behavior and creating transparent assessment methodologies.
-- **Production AI Systems**: Deploying specialized LLMs for content moderation across 500+ online communities, building interpretable moderation frameworks.
-- **Multimodal AI Research**: Creating novel prompting methods for Vision-Language Models achieving 29% F1 improvement, with emphasis on zero-shot approaches and systematic evaluation.
-
-This research contributes to making AI systems more transparent and interpretable through rigorous experimental design and practical deployment.
+More broadly, I am interested in advancing **reasoning methods for large language and vision-language models**, with ongoing work on **prefill tuning** and **label-guided chain-of-thought reasoning**.  
 
 ---
 
