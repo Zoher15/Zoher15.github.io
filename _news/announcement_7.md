@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to share that our paper `Task-Aligned Prompting Improves Detection of AI-Generated Images in VLMs` has been submitted to [NeurIPS 2025](https://neurips.cc/)! Our zero-shot-s² method improves AI-generated image detection by up to 29% without fine-tuning. 🚀
+Excited to share that our paper `Prefilled responses enhance zero-shot detection of AI-generated images` has been accepted to the [NeurIPS 2024 Workshop on Generative and Protective AI for Content Creation](https://neurips.cc/)! The paper has also been submitted to ACL ARR. Our Prefill-Guided Thinking (PGT) method improves AI-generated image detection by up to 24% without training data. 🚀
