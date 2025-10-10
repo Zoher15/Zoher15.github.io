@@ -14,11 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate at [Indiana University](https://www.iu.edu/), in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), advised by [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am an active member of the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).  
+I am a PhD candidate at [Indiana University](https://www.iu.edu/), in the [Luddy School of Informatics, Computing and Engineering](https://luddy.indiana.edu/index.html), advised by [Professor Filippo Menczer](https://cnets.indiana.edu/fil). I am an active member of the [Observatory on Social Media](https://osome.iu.edu/) and the [NaN research group](https://cnets.indiana.edu/groups/nan). I also collaborate with [Professor Jisun An](https://jisun.me/) and [Professor Haewoon Kwak](https://haewoon.io/).
 
-My research focuses on **AI reasoning for trustworthy discourse**, addressing challenges such as content moderation and the detection of AI-generated media. I introduced the dataset and problem of **Context-aware Reddit Moderation**, where a moderation thread includes the complete context—images, posts, and comments from a subreddit—to determine whether a comment violates community rules.  
+My research specializes in **LLM post-training and evaluation**, bridging foundational research with production deployment. Previously, I worked on **knowledge graph matching** (REMATCH, NAACL 2024), developing efficient metrics for evaluating Abstract Meaning Representation graphs, and contributed to **large-scale social media research** (MEIU22, ICWSM 2023), releasing multi-platform datasets for political discourse analysis.
 
-More broadly, I am interested in advancing **reasoning methods for large language and vision-language models**, with ongoing work on **prefill tuning** and **label-guided chain-of-thought reasoning**.  
+Currently, my work focuses on **AI reasoning for trustworthy discourse** and **post-training methods for LLMs**. I'm developing heuristic-guided decoding techniques for improved chain-of-thought reasoning, investigating prefill optimization versus traditional prompting, building multimodal benchmarks for community-aware content moderation, and advancing structured supervised fine-tuning methods that enable cross-domain generalization.  
 
 ---
 
