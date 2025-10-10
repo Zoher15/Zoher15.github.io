@@ -18,7 +18,7 @@ I am a PhD candidate at [Indiana University](https://www.iu.edu/), in the [Luddy
 
 My research specializes in **LLM post-training and evaluation**, bridging foundational research with production deployment. Previously, I worked on **knowledge graph matching** (REMATCH, NAACL 2024), developing efficient metrics for evaluating Abstract Meaning Representation graphs, and contributed to **large-scale social media research** (MEIU22, ICWSM 2023), releasing multi-platform datasets for political discourse analysis.
 
-Currently, my work focuses on **AI reasoning for trustworthy discourse** and **post-training methods for LLMs**. I'm developing heuristic-guided decoding techniques for improved chain-of-thought reasoning, investigating prefill optimization versus traditional prompting, building multimodal benchmarks for community-aware content moderation, and advancing structured supervised fine-tuning methods that enable cross-domain generalization.  
+Currently, my work focuses on **AI reasoning for trustworthy discourse** and **post-training methods for LLMs**. I'm developing heuristic-guided decoding techniques for improved chain-of-thought reasoning, investigating prefill optimization versus traditional prompting, building multimodal benchmarks for community-aware content moderation, and advancing structured supervised fine-tuning methods that enable cross-domain generalization.
 
 ---
 

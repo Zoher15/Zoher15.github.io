@@ -161,7 +161,16 @@
     },
     {
       "name": "Infrastructure",
-      "keywords": ["Multi-GPU Training", "Distributed Computing", "Docker", "Kubernetes", "AWS", "Google Cloud Platform (GCP)", "GPU Clusters", "Batch Processing"]
+      "keywords": [
+        "Multi-GPU Training",
+        "Distributed Computing",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Google Cloud Platform (GCP)",
+        "GPU Clusters",
+        "Batch Processing"
+      ]
     },
     {
       "name": "Data/Eval",
