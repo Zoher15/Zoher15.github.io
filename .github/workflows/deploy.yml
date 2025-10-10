@@ -69,6 +69,7 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
+          pip3 install --upgrade jupyter --timeout 300 --retries 5
           export JEKYLL_ENV=production
           bundle exec jekyll build --lsi
       - name: Purge unused CSS 🧹
