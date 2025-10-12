@@ -3,7 +3,7 @@
     "name": "Zoher Kachwala",
     "label": "PhD Candidate in LLM Post-Training & Evaluation",
     "url": "https://zoher15.github.io/",
-    "summary": "PhD candidate specializing in LLM post-training and evaluation, bridging foundational research with production deployment. Design frameworks and metrics to measure LLM capabilities, develop techniques that improve reasoning and efficiency at scale, and build systems that translate research insights into measurable real-world gains. Combines technical research with systems engineering to deliver scientific contributions and production-ready solutions.",
+    "summary": "PhD candidate specializing in LLM post-training and evaluation. Designed REMATCH (NAACL'24), a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Developed Prefill-Guided Thinking (NeurIPS'25 Workshop), achieving 24% F1 improvement for zero-shot AI image detection. Build and deploy systems using PyTorch, vLLM, and multi-GPU infrastructure.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -55,41 +55,6 @@
   ],
   "publications": [
     {
-      "name": "Heuristic-Guided Decoding for Improved LLM Reasoning",
-      "publisher": "Work in Progress",
-      "releaseDate": "2025-01-01",
-      "status": "Work in Progress",
-      "abstract": "Developing A*-inspired decoding method using target answer tokens as heuristics to guide chain-of-thought generation toward higher-quality reasoning paths."
-    },
-    {
-      "name": "Optimizing Prefills vs. Prompts: A Meta-Evaluation Framework",
-      "publisher": "Work in Progress",
-      "releaseDate": "2025-01-01",
-      "status": "Work in Progress",
-      "abstract": "Using Genetic-Pareto optimization to compare optimization landscapes of prefills versus prompts, investigating whether prefills enable faster convergence and superior performance ceilings."
-    },
-    {
-      "name": "MultiModReddit: A Benchmark for Community-Aware Content Moderation",
-      "publisher": "Work in Progress",
-      "releaseDate": "2025-01-01",
-      "status": "Work in Progress",
-      "abstract": "Developing multimodal benchmark with 100K discussion threads across 100 Reddit communities with distinct rule sets, enabling evaluation of LLM moderation systems that respect community-specific norms."
-    },
-    {
-      "name": "Cross-Community Generalization through Structured Supervised Fine-Tuning",
-      "publisher": "Work in Progress",
-      "releaseDate": "2025-01-01",
-      "status": "Work in Progress",
-      "abstract": "Developing SFT methodology using structured chain-of-thought distillation, demonstrating that systematic context analysis enables single-community training to generalize across 100+ diverse communities."
-    },
-    {
-      "name": "Prefilled Responses Enhance Zero-Shot Detection of AI-Generated Images",
-      "publisher": "NeurIPS 2024 Workshop; Under Review – ACL ARR",
-      "releaseDate": "2025-01-01",
-      "status": "Under Review",
-      "abstract": "Introduced Prefill-Guided Thinking (PGT), a zero-shot method for detecting AI-generated images without training data, achieving 24% F1 improvement across 16 state-of-the-art generators."
-    },
-    {
       "name": "REMATCH: Robust and Efficient Matching of Local Knowledge Graphs",
       "publisher": "NAACL 2024",
       "releaseDate": "2024-03-14",
@@ -97,21 +62,45 @@
       "abstract": "Introduced REMATCH, a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Released RARE benchmark advancing evaluation infrastructure for knowledge-grounded NLP systems."
     },
     {
+      "name": "Prefilled Responses Enhance Zero-Shot Detection of AI-Generated Images",
+      "publisher": "NeurIPS 2025 Workshop",
+      "releaseDate": "2025-01-01",
+      "abstract": "Introduced Prefill-Guided Thinking (PGT), a zero-shot method for detecting AI-generated images without training data, achieving 24% F1 improvement across 16 state-of-the-art generators."
+    },
+    {
+      "name": "MultiModReddit: A Benchmark for Community-Aware Content Moderation",
+      "publisher": "ACL ARR (Under Review)",
+      "releaseDate": "2025-01-01",
+      "status": "Under Review",
+      "abstract": "Multimodal benchmark with 100K discussion threads across 100 Reddit communities with distinct rule sets, enabling evaluation of LLM moderation systems that respect community-specific norms."
+    },
+    {
+      "name": "Cross-Community Generalization through Structured Supervised Fine-Tuning",
+      "publisher": "In Preparation",
+      "releaseDate": "2025-01-01",
+      "status": "In Preparation",
+      "abstract": "SFT methodology using structured chain-of-thought distillation, demonstrating that systematic context analysis enables single-community training to generalize across 100+ diverse communities."
+    },
+    {
       "name": "A Multi-Platform Collection of Social Media Posts about the 2022 U.S. Midterm Elections",
       "publisher": "ICWSM 2023",
       "releaseDate": "2023-06-02",
       "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/22205",
       "abstract": "Released MEIU22, a multi-platform dataset with 30M posts across Twitter, Facebook, Instagram, Reddit, and 4chan tracking the 2022 U.S. Midterm Elections, alongside open-source collection pipeline."
-    },
-    {
-      "name": "The Inexplicable Efficacy of Language Models",
-      "publisher": "ACM XRDS",
-      "releaseDate": "2023-04-12",
-      "url": "https://dl.acm.org/doi/10.1145/3589654",
-      "abstract": "Educational survey introducing language modeling fundamentals and unexplained emergent capabilities of LLMs, discussing key limitations and recent approaches."
     }
   ],
-  "projects": [],
+  "projects": [
+    {
+      "name": "Heuristic-Guided Decoding for Improved LLM Reasoning",
+      "description": "Developing A*-inspired decoding method using target answer tokens as heuristics to guide chain-of-thought generation toward higher-quality reasoning paths.",
+      "startDate": "2024-01-01"
+    },
+    {
+      "name": "Optimizing Prefills vs. Prompts: A Meta-Evaluation Framework",
+      "description": "Using Genetic-Pareto optimization to compare optimization landscapes of prefills versus prompts, investigating whether prefills enable faster convergence and superior performance ceilings.",
+      "startDate": "2024-01-01"
+    }
+  ],
   "work": [
     {
       "name": "Introduction to Network Science",
@@ -143,38 +132,35 @@
         "Model Evaluation",
         "Benchmarking",
         "Supervised Fine-Tuning (SFT)",
-        "RLHF",
         "Prompt Engineering",
         "Chain-of-Thought Reasoning",
         "Multimodal AI",
-        "AI Safety",
+        "RLHF",
         "Model Interpretability"
       ]
     },
     {
       "name": "Programming",
-      "keywords": ["Python", "CUDA", "PyTorch", "C++", "JavaScript", "SQL", "Bash"]
+      "keywords": ["Python", "PyTorch", "C++", "CUDA", "JavaScript", "SQL", "Bash"]
     },
     {
       "name": "ML Tools",
-      "keywords": ["PyTorch", "Hugging Face Transformers", "vLLM", "TensorFlow", "Scikit-learn", "Weights & Biases (W&B)", "LangChain"]
+      "keywords": ["PyTorch", "Hugging Face Transformers", "vLLM", "Weights & Biases (W&B)", "TensorFlow", "Scikit-learn"]
     },
     {
       "name": "Infrastructure",
       "keywords": [
         "Multi-GPU Training",
+        "GPU Clusters",
         "Distributed Computing",
-        "Docker",
-        "Kubernetes",
         "AWS",
         "Google Cloud Platform (GCP)",
-        "GPU Clusters",
         "Batch Processing"
       ]
     },
     {
       "name": "Data/Eval",
-      "keywords": ["Benchmark Development", "A/B Testing", "Statistical Analysis", "Data Pipeline Design", "Pandas", "NumPy"]
+      "keywords": ["Benchmark Development", "Statistical Analysis", "Data Pipeline Design", "A/B Testing", "Pandas", "NumPy"]
     }
   ],
   "languages": [],
