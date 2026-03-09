@@ -1,6 +1,6 @@
 ---
 ---
-@misc{kachwala2025prefilledresponsesenhancezeroshot,
+@misc{kachwala2025prefilled,
   title={Prefilled responses enhance zero-shot detection of AI-generated images},
   author={Zoher Kachwala and Danishjeet Singh and Danielle Yang and Filippo Menczer},
   year={2025},
@@ -9,34 +9,35 @@
   primaryClass={cs.LG},
   url={https://arxiv.org/abs/2506.11031},
   code={https://github.com/Zoher15/Zero-shot-s2},
-  status={NeurIPS 2024 Workshop; Under Review – ACL ARR},
+  status={NeurIPS 2025 Workshop; Under Review – ACL ARR},
   preview={task_aligned.png},
   selected={true},
   bibtex_show={true},
   pdf={Task_aligned_prompting_improves_zero_shot_detection_of_AI_generated_images_by_Vision_Language_Models.pdf},
-  abstract={Introduced Prefill-Guided Thinking (PGT), a zero-shot method for detecting AI-generated images without training data, achieving 24% F1 improvement across 16 state-of-the-art generators.}
+  note={NeurIPS 2025 Workshop; Under Review - ACL ARR},
+  abstract={Traditional supervised methods for detecting AI-generated images depend on large, curated datasets for training and fail to generalize to novel, out-of-domain image generators. As an alternative, we explore pre-trained Vision-Language Models (VLMs) for zero-shot detection of AI-generated images. We evaluate VLM performance on three diverse benchmarks encompassing synthetic images of human faces, objects, and animals produced by 16 different state-of-the-art image generators. While off-the-shelf VLMs perform poorly on these datasets, we find that their reasoning can be guided effectively through a simple prefilling of responses - a method we call Prefill-Guided Thinking (PGT). In particular, prefilling a VLM response with the phrase 'Let's examine the style and the synthesis artifacts' improves the Macro F1 scores of three widely used open-source VLMs by up to 24%. We analyze this improvement by tracking models' answer confidence at incremental intervals during response generation. For some models, prefills counteract early overconfidence - akin to mitigating the Dunning-Kruger effect - leading to better detection performance.}
 }
 
-@unpublished{kachwala2025multimodreddit,
-  title={MultiModReddit: A Benchmark for Community-Aware Content Moderation},
-  author={Zoher Kachwala and Jisun An and Haewoon Kwak and Filippo Menczer},
-  year={2025},
-  note={Under Review – ACL ARR},
-  status={Under Review},
+@inproceedings{kachwala2026plurule,
+  title={PLURULE: A Challenging Benchmark for Detecting Rule Violations on Pluralistic Social Media},
+  author={Zoher Kachwala and Bao Tran Truong and Rasika Muralidharan and Haewoon Kwak and Jisun An and Filippo Menczer},
+  year={2026},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
+  publisher={Association for Computational Linguistics},
+  code={https://github.com/Zoher15/PluRule},
   selected={true},
   bibtex_show={true},
-  abstract={Multimodal benchmark with 100K discussion threads across 100 Reddit communities with distinct rule sets, enabling evaluation of LLM moderation systems that respect community-specific norms.}
+  abstract={Social media are shifting towards pluralism - community-governed platforms where groups define their own norms. What violates rules in one community may be perfectly acceptable in another. Can AI models help detect rule violations of such pluralistic communities? We formalize the task as a multiple-choice problem, mirroring how human moderators operate in the real world: given a comment and its surrounding context, identify which specific rule, if any, is violated. We introduce PLURULE, a multimodal, multilingual benchmark for detecting 17,313 rule violations across 2,419 Reddit communities spanning 3,692 pluralistic rules in 10 languages. Using this benchmark, we show that state-of-the-art vision-language models struggle significantly: even GPT-5.2 with high reasoning performs only slightly better than a trivial baseline. We also find that bigger models and increased context provide marginal gains, and universal rules like civility and self-promotion are easier to detect. Our results show that pluralistic moderation of social media is a fundamental challenge for language models.}
 }
 
-@unpublished{kachwala2025crosscommunity,
-  title={Cross-Community Generalization through Structured Supervised Fine-Tuning},
+@unpublished{kachwala2025discloze,
+  title={Distilling Cloze Reasoning Improves Detecting Violations on Pluralistic Social Media},
   author={Zoher Kachwala and Jisun An and Haewoon Kwak and Filippo Menczer},
   year={2025},
   note={In Preparation},
-  status={In Preparation},
   selected={true},
   bibtex_show={true},
-  abstract={SFT methodology using structured chain-of-thought distillation, demonstrating that systematic context analysis enables single-community training to generalize across 100+ diverse communities.}
+  abstract={Large language models struggle to detect rule violations across pluralistic social media communities, where norms vary widely. We introduce DisCloze, a distillation method that teaches student models to leverage full context through high-quality reasoning traces. We generate teacher traces using task-aligned prefills ('Let's examine the subreddit, submission, discussion...') rather than generic chain-of-thought prompts ('Let's think step by step'), producing structured reasoning that systematically analyzes community context before identifying violations. By distilling these context-aware traces into smaller models, DisCloze enables generalization from a subset of communities to 100+ unseen communities with distinct rule sets. Our results demonstrate that task-aligned prefill distillation outperforms generic CoT distillation for pluralistic content moderation.}
 }
 
 @inproceedings{kachwala-etal-2024-rematch,
@@ -56,7 +57,7 @@
   preview={rematchflow.png},
   selected={true},
   bibtex_show={true},
-  abstract={Introduced REMATCH, a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Released RARE benchmark advancing evaluation infrastructure for knowledge-grounded NLP systems.}
+  abstract={Introduced REMATCH, a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Released RARE benchmark for testing AMR evaluation metrics on knowledge-grounded NLP systems.}
 }
 
 @inproceedings{aiyappa2023multi,
@@ -78,18 +79,17 @@
 }
 
 @article{aiyappa_inexplicable_2023,
-	title = {The {Inexplicable} {Efficacy} of {Language} {Models}},
-	volume = {29},
-	issn = {1528-4972},
-	url = {https://dl.acm.org/doi/10.1145/3589654},
-	doi = {10.1145/3589654},
-	number = {3},
-	urldate = {2024-03-18},
-	journal = {XRDS: Crossroads, The ACM Magazine for Students},
-	author = {Aiyappa, Rachith and Kachwala, Zoher},
-	month = apr,
-	year = {2023},
-	pages = {60--62},
+  title={The {Inexplicable} {Efficacy} of {Language} {Models}},
+  volume={29},
+  issn={1528-4972},
+  url={https://dl.acm.org/doi/10.1145/3589654},
+  doi={10.1145/3589654},
+  number={3},
+  journal={XRDS: Crossroads, The ACM Magazine for Students},
+  author={Aiyappa, Rachith and Kachwala, Zoher},
+  month=apr,
+  year={2023},
+  pages={60--62},
   bibtex_show={true},
   selected={true},
   abstract={Educational survey introducing language modeling fundamentals and unexplained emergent capabilities of LLMs, discussing key limitations and recent approaches.}

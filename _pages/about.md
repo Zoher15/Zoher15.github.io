@@ -18,11 +18,11 @@ I am a PhD candidate at [Indiana University](https://www.iu.edu/), in the [Luddy
 
 My research specializes in **LLM post-training and evaluation**:
 
-- **Evaluation & Benchmarking**: Designed REMATCH (NAACL'24), a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Building multimodal benchmarks for community-aware content moderation.
-- **Post-Training Methods**: Developed Prefill-Guided Thinking (NeurIPS'25 Workshop), achieving 24% F1 improvement for zero-shot AI image detection. Researching structured fine-tuning for cross-domain generalization.
-- **Research to Production**: Build and deploy systems using PyTorch, vLLM, and multi-GPU infrastructure. Experience scaling LLM training and evaluation pipelines on GPU clusters.
+- **Evaluation & Benchmarking**: Designed REMATCH (NAACL 2024), a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Built PLURULE (ACL 2026), a multimodal, multilingual benchmark spanning 2,419 Reddit communities and 3,692 rules in 10 languages.
+- **Post-Training Methods**: Developed Prefill-Guided Thinking (NeurIPS 2025 Workshop), achieving 24% F1 improvement for zero-shot AI image detection. Designed DisCloze, a distillation method that generalizes reasoning to 100+ unseen Reddit communities.
+- **Research to Production**: Build and deploy systems using PyTorch, vLLM, DeepSpeed, and multi-GPU infrastructure. Experience scaling LLM training and evaluation pipelines on GPU clusters.
 
-I also contributed to **large-scale social media research** (MEIU22, ICWSM 2023), releasing multi-platform datasets for political discourse analysis. Currently exploring heuristic-guided decoding for improved reasoning and optimization landscapes of prefills versus prompts.
+I also contributed to **large-scale social media research** (MEIU22, ICWSM 2023), releasing multi-platform datasets for political discourse analysis. Currently tracking answer-token logits during chain-of-thought generation to detect reasoning convergence, and comparing prefill vs prompt optimization using GEPA.
 
 ---
 

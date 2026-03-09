@@ -3,7 +3,7 @@
     "name": "Zoher Kachwala",
     "label": "PhD Candidate in LLM Post-Training & Evaluation",
     "url": "https://zoher15.github.io/",
-    "summary": "PhD candidate specializing in LLM post-training and evaluation. Designed REMATCH (NAACL'24), a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Developed Prefill-Guided Thinking (NeurIPS'25 Workshop), achieving 24% F1 improvement for zero-shot AI image detection. Build and deploy systems using PyTorch, vLLM, and multi-GPU infrastructure.",
+    "summary": "PhD candidate specializing in LLM post-training and evaluation. Designed REMATCH (NAACL 2024), a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Developed Prefill-Guided Thinking (NeurIPS 2025 Workshop), achieving 24% F1 improvement for zero-shot AI image detection. Built PLURULE (ACL 2026), a multimodal benchmark spanning 2,419 Reddit communities in 10 languages.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -28,7 +28,7 @@
       "location": "USA",
       "area": "Computer Science",
       "studyType": "Doctor of Philosophy",
-      "endDate": "2026-05-01",
+      "endDate": "2026-12-01",
       "score": "3.8/4.0"
     },
     {
@@ -36,7 +36,7 @@
       "location": "USA",
       "area": "Data Science",
       "studyType": "Master of Science",
-      "endDate": "2022-05-01"
+      "endDate": "2026-12-01"
     },
     {
       "institution": "Indiana University",
@@ -46,7 +46,7 @@
       "endDate": "2019-05-01"
     },
     {
-      "institution": "NMIMS",
+      "institution": "NMIMS University",
       "location": "India",
       "area": "Computer Engineering",
       "studyType": "Bachelor of Technology",
@@ -55,31 +55,32 @@
   ],
   "publications": [
     {
-      "name": "REMATCH: Robust and Efficient Matching of Local Knowledge Graphs",
-      "publisher": "NAACL 2024",
-      "releaseDate": "2024-03-14",
-      "url": "https://aclanthology.org/2024.findings-naacl.64/",
-      "abstract": "Introduced REMATCH, a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Released RARE benchmark advancing evaluation infrastructure for knowledge-grounded NLP systems."
+      "name": "PLURULE: A Challenging Benchmark for Detecting Rule Violations on Pluralistic Social Media",
+      "publisher": "ACL 2026",
+      "releaseDate": "2026-01-01",
+      "url": "https://github.com/Zoher15/PluRule",
+      "abstract": "Multimodal, multilingual benchmark for detecting 17,313 rule violations across 2,419 Reddit communities spanning 3,692 pluralistic rules in 10 languages. State-of-the-art vision-language models struggle significantly on this benchmark."
     },
     {
       "name": "Prefilled Responses Enhance Zero-Shot Detection of AI-Generated Images",
       "publisher": "NeurIPS 2025 Workshop",
       "releaseDate": "2025-01-01",
-      "abstract": "Introduced Prefill-Guided Thinking (PGT), a zero-shot method for detecting AI-generated images without training data, achieving 24% F1 improvement across 16 state-of-the-art generators."
+      "url": "https://arxiv.org/abs/2506.11031",
+      "abstract": "Introduced Prefill-Guided Thinking (PGT), a zero-shot method for detecting AI-generated images without training data, achieving 24% F1 improvement across 16 state-of-the-art image generators."
     },
     {
-      "name": "MultiModReddit: A Benchmark for Community-Aware Content Moderation",
-      "publisher": "ACL ARR (Under Review)",
-      "releaseDate": "2025-01-01",
-      "status": "Under Review",
-      "abstract": "Multimodal benchmark with 100K discussion threads across 100 Reddit communities with distinct rule sets, enabling evaluation of LLM moderation systems that respect community-specific norms."
-    },
-    {
-      "name": "Cross-Community Generalization through Structured Supervised Fine-Tuning",
+      "name": "Distilling Cloze Reasoning Improves Detecting Violations on Pluralistic Social Media",
       "publisher": "In Preparation",
       "releaseDate": "2025-01-01",
       "status": "In Preparation",
-      "abstract": "SFT methodology using structured chain-of-thought distillation, demonstrating that systematic context analysis enables single-community training to generalize across 100+ diverse communities."
+      "abstract": "Distillation method that teaches student models to leverage full context through high-quality reasoning traces, enabling generalization from a subset of communities to 100+ unseen Reddit communities with distinct rule sets."
+    },
+    {
+      "name": "REMATCH: Robust and Efficient Matching of Local Knowledge Graphs",
+      "publisher": "NAACL 2024",
+      "releaseDate": "2024-06-01",
+      "url": "https://aclanthology.org/2024.findings-naacl.64/",
+      "abstract": "Introduced REMATCH, a novel AMR graph evaluation metric achieving 5x speedup while ranking first in semantic similarity. Released RARE benchmark for testing AMR evaluation metrics on knowledge-grounded NLP systems."
     },
     {
       "name": "A Multi-Platform Collection of Social Media Posts about the 2022 U.S. Midterm Elections",
@@ -87,21 +88,36 @@
       "releaseDate": "2023-06-02",
       "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/22205",
       "abstract": "Released MEIU22, a multi-platform dataset with 30M posts across Twitter, Facebook, Instagram, Reddit, and 4chan tracking the 2022 U.S. Midterm Elections, alongside open-source collection pipeline."
+    },
+    {
+      "name": "The Inexplicable Efficacy of Language Models",
+      "publisher": "XRDS 2023",
+      "releaseDate": "2023-04-01",
+      "url": "https://dl.acm.org/doi/10.1145/3589654",
+      "abstract": "Educational survey introducing language modeling fundamentals and unexplained emergent capabilities of LLMs, discussing key limitations and recent approaches."
     }
   ],
   "projects": [
     {
-      "name": "Heuristic-Guided Decoding for Improved LLM Reasoning",
-      "description": "Developing A*-inspired decoding method using target answer tokens as heuristics to guide chain-of-thought generation toward higher-quality reasoning paths.",
+      "name": "Detecting 'Aha' Moments in Chain-of-Thought",
+      "description": "Tracking answer-token logits throughout CoT generation to detect when models converge on answers, enabling early termination, training data selection, and confidence-aware decoding.",
+      "url": "https://github.com/Zoher15/Aha",
       "startDate": "2024-01-01"
     },
     {
-      "name": "Optimizing Prefills vs. Prompts: A Meta-Evaluation Framework",
-      "description": "Using Genetic-Pareto optimization to compare optimization landscapes of prefills versus prompts, investigating whether prefills enable faster convergence and superior performance ceilings.",
+      "name": "Optimizing Prefills vs Prompts",
+      "description": "Using GEPA (Genetic-Pareto optimizer) to compare prefill vs system prompt optimization, testing whether optimizing prefills improves task accuracy with fewer optimization steps.",
       "startDate": "2024-01-01"
     }
   ],
   "work": [
+    {
+      "name": "PwC",
+      "position": "Technology Consultant Intern",
+      "startDate": "2018-06-01",
+      "endDate": "2018-08-31",
+      "summary": "Managed project estimates for phase 2 of a large P&C insurance engagement. Created and prepared estimate slide decks and sheets for the client CEO."
+    },
     {
       "name": "Introduction to Network Science",
       "position": "Teaching Assistant",
@@ -132,6 +148,7 @@
         "Model Evaluation",
         "Benchmarking",
         "Supervised Fine-Tuning (SFT)",
+        "Distillation",
         "Prompt Engineering",
         "Chain-of-Thought Reasoning",
         "Multimodal AI",
@@ -145,7 +162,7 @@
     },
     {
       "name": "ML Tools",
-      "keywords": ["PyTorch", "Hugging Face Transformers", "vLLM", "Weights & Biases (W&B)", "TensorFlow", "Scikit-learn"]
+      "keywords": ["PyTorch", "Hugging Face Transformers", "vLLM", "DeepSpeed", "Weights & Biases (W&B)", "Weave", "TensorFlow"]
     },
     {
       "name": "Infrastructure",
@@ -153,7 +170,7 @@
     },
     {
       "name": "Data/Eval",
-      "keywords": ["Benchmark Development", "Statistical Analysis", "Data Pipeline Design", "A/B Testing", "Pandas", "NumPy"]
+      "keywords": ["Ray", "Benchmark Development", "Statistical Analysis", "Data Pipeline Design", "A/B Testing", "Pandas", "NumPy"]
     }
   ],
   "languages": [],
